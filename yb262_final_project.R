@@ -2,6 +2,7 @@
 library(RSelenium)
 library(tidyverse)
 library(data.table)
+library(tidytext)
 
 # Keep scrolling down page, loading new content each time. 
 
@@ -55,14 +56,61 @@ fwrite(list(announcements_scrape), file = "announcements_scrape.txt")
 
 
 worldnews_t <- data.table::fread(input = "worldnews_scrape.txt", sep = '\n') %>%
-  as_tibble() %>% filter(WorldNewsEntries != "\"\"")
+  as_tibble() %>% 
+  filter(WorldNewsEntries != "\"\"") %>%
+  unnest_tokens(word, 
+                WorldNewsEntries, 
+                token = "words") %>%
+  anti_join(stop_words)
+
+worldnews_counts <- worldnews_t %>% count(word, sort = TRUE)
+  
 
 science_t <- data.table::fread(input = "science_scrape.txt", sep = '\n') %>%
-  as_tibble() %>% filter(ScienceEntries != "\"\"")
+  as_tibble() %>% 
+  filter(ScienceEntries != "\"\"") %>%
+  unnest_tokens(word, 
+                ScienceEntries, 
+                token = "words") %>%
+  anti_join(stop_words)
+
+
+science_counts <- science_t %>% count(word, sort = TRUE)
 
 showerthoughts_t <- data.table::fread(input = "showerthoughts_scrape.txt", sep = '\n') %>%
-  as_tibble() %>% filter(ShowerthoughtsEntries != "\"\"")
+  as_tibble() %>% 
+  filter(ShowerthoughtsEntries != "\"\"") %>%
+  unnest_tokens(word, 
+                ShowerthoughtsEntries, 
+                token = "words") %>%
+  anti_join(stop_words)
+
+showerthoughts_counts <- showerthoughts_t %>% count(word, sort = TRUE)
+
 
 announcements_t <- data.table::fread(input = "announcements_scrape.txt", sep = '\n') %>%
-  as_tibble() %>% filter(AnnouncementsEntries != "\"\"")
+  as_tibble() %>% 
+  filter(AnnouncementsEntries != "\"\"") %>%
+  unnest_tokens(word, 
+                AnnouncementsEntries, 
+                token = "words") %>%
+  anti_join(stop_words)
+
+
+announcement_counts <- announcements_t %>% count(word, sort = TRUE)
+
+
+
+frequency <- bind_rows(mutate(worldnews_t,subreddit="WorldNews"),
+                       mutate(science_t,subreddit="Science"),
+                       mutate(showerthoughts_t,subreddit="Showerthoughts"),
+                       mutate(announcements_t, subreddit="Announcements")) %>% 
+  mutate(word = str_extract(word, "[a-z']+")) %>%
+  group_by(subreddit) %>%
+  count(word) %>%
+  mutate(proportion = n / sum(n)) %>% 
+  select(-n) %>% 
+  pivot_wider(names_from = "subreddit", values_from = "proportion") %>%
+  drop_na()
+frequency
 
