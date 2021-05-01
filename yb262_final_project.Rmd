@@ -1,0 +1,83 @@
+---
+title: "Data Wrangling Final Project Reddit Scraping"
+author: "Yaniv Bronshtein"
+date: "4/30/2021"
+output: html_document
+---
+
+#```{r setup, include=FALSE}
+#knitr::opts_chunk$set(echo = TRUE)
+#```
+
+**Import the necessary libraries**
+```{r echo=TRUE, include=FALSE}
+library(data.table)
+library(tidytext) #text mining, unnesting
+library(tidyverse) #For most of the things we've done in class
+library(topicmodels) #the LDA algorithm
+library(RSelenium) #For scraping data
+#library(kableExtra)
+library(knitr) #simple table generator
+library(ggrepel) #text and label geoms for ggplot2
+library(gridExtra) #Use for ggplot2
+#library(formattable) #color tile and color bar in kables
+library(tm) #Text Mining
+library(plotly) #interactive ggplot graphs
+
+```
+
+**Create a function to scrape reddit data**
+
+
+```{r echo=TRUE, include=FALSE}
+scrape_reddit <- function(subreddit) {
+  rD <- rsDriver(browser="firefox", port=4542L, verbose=F)
+  remDr = rD[["client"]]
+  url = paste0("https://www.reddit.com/r/", subreddit, "/")
+  remDr$navigate(url)
+  last_height = 0 #
+  scraped_text <- NULL
+  repeat {   
+    elems <- remDr$findElements(using = "class name", "_eYtD2XCVieq6emjKBH3m")
+    
+    for (elem in elems) {
+      scraped_text <- c(scraped_text, elem$getElementText())
+    }
+    remDr$executeScript("window.scrollTo(0,document.body.scrollHeight);")
+    Sys.sleep(3) #delay by 3sec to give chance to load. 
+    
+    # Updated if statement which breaks if we can't scroll further 
+    new_height = remDr$executeScript("return document.body.scrollHeight")
+    if(unlist(last_height) == unlist(new_height) | length(scraped_text) > 5000) {
+      break
+    } else {
+      last_height = new_height
+    }
+  }
+  remDr$close()
+  rD$server$stop()
+  return(scraped_text)
+}
+```
+
+**Call the scraping function to get data for the subreddits  worldnews, science,**
+**Showerthoughts, and announcements**
+```{r echo=TRUE, include=FALSE}
+worldnews_scrape <- scrape_reddit("worldnews")
+science_scrape <- scrape_reddit("science")
+showerthoughts_scrape <- scrape_reddit("Showerthoughts")
+announcements_scrape <-scrape_reddit("announcements")
+
+
+```
+
+**save initial scraped data**
+```{r}
+fwrite(list(worldnews_scrape), file = "worldnews_scrape.txt")
+fwrite(list(science_scrape), file = "science_scrape.txt")
+fwrite(list(showerthoughts_scrape), file = "showerthoughts_scrape.txt")
+fwrite(list(announcements_scrape), file = "announcements_scrape.txt")
+
+```
+
+
