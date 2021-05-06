@@ -11,32 +11,30 @@ output: html_document
 
 **Import the necessary libraries**
 ```{r echo=TRUE, include=FALSE}
+library(RSelenium)
+library(tidyverse)
 library(data.table)
-library(tidytext) #text mining, unnesting
-library(tidyverse) #For most of the things we've done in class
-library(topicmodels) #the LDA algorithm
-library(RSelenium) #For scraping data
-#library(kableExtra)
-library(knitr) #simple table generator
-library(ggrepel) #text and label geoms for ggplot2
-library(gridExtra) #Use for ggplot2
-#library(formattable) #color tile and color bar in kables
-library(tm) #Text Mining
-library(plotly) #interactive ggplot graphs
-
+library(tidytext)
+library(gridExtra)
+library(ggrepel)
+library(scales)
 ```
 
 **Create a function to scrape reddit data**
 
 
+
 ```{r echo=TRUE, include=FALSE}
+#SEARCH_LIMIT = 5000
+SEARCH_LIMIT = 100
+
 scrape_reddit <- function(subreddit) {
   rD <- rsDriver(browser="firefox", port=4542L, verbose=F)
   remDr = rD[["client"]]
   url = paste0("https://www.reddit.com/r/", subreddit, "/")
   remDr$navigate(url)
   last_height = 0 #
-  scraped_text <- NULL
+  scraped_text <- c(subreddit)
   repeat {   
     elems <- remDr$findElements(using = "class name", "_eYtD2XCVieq6emjKBH3m")
     
@@ -48,7 +46,7 @@ scrape_reddit <- function(subreddit) {
     
     # Updated if statement which breaks if we can't scroll further 
     new_height = remDr$executeScript("return document.body.scrollHeight")
-    if(unlist(last_height) == unlist(new_height) | length(scraped_text) > 5000) {
+    if(unlist(last_height) == unlist(new_height) | length(scraped_text) > SEARCH_LIMIT) {
       break
     } else {
       last_height = new_height
@@ -58,6 +56,34 @@ scrape_reddit <- function(subreddit) {
   rD$server$stop()
   return(scraped_text)
 }
+```
+
+**DEMO**
+```{r}
+subreddit_demo = 'futurology'
+my_demo = scrape_reddit(subreddit_demo)
+fwrite(list(my_demo), file = "my_demo.txt")
+
+
+my_demo_t <- data.table::fread(input = "my_demo.txt", sep = '\n') %>%
+  as_tibble() %>% 
+  filter(subreddit_demo != "\"\"") %>%
+  unnest_tokens(word, 
+                subreddit_demo, 
+                token = "words") %>%
+  anti_join(stop_words)
+
+
+demo_sentiment <- my_demo_t %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(word, sentiment) %>%
+  pivot_wider(names_from = "sentiment", values_from = "n")
+
+create_sentiment_pie(demo_sentiment, subreddit_demo)
+
+
+
+
 ```
 
 **Call the scraping function to get data for the subreddits  worldnews, science,**
@@ -71,16 +97,203 @@ announcements_scrape <-scrape_reddit("announcements")
 
 ```
 
-**save initial scraped data**
-```{r}
-fwrite(list(worldnews_scrape), file = "worldnews_scrape.txt")
-fwrite(list(science_scrape), file = "science_scrape.txt")
-fwrite(list(showerthoughts_scrape), file = "showerthoughts_scrape.txt")
-fwrite(list(announcements_scrape), file = "announcements_scrape.txt")
-
+**save initial scraped data into text files**
+```{r echo=TRUE, include=FALSE}
+fwrite(list(worldnews_scrape), file = "worldnews_scrape_2.txt")
+fwrite(list(science_scrape), file = "science_scrape_2.txt")
+fwrite(list(showerthoughts_scrape), file = "showerthoughts_scrape_2.txt")
+fwrite(list(announcements_scrape), file = "announcements_scrape_2.txt")
 ```
 
 
-**Process data**
+**Process and tidy the data by reading from the file **
+```{r echo=FALSE, include=FALSE}
+worldnews_t <- data.table::fread(input = "worldnews_scrape_2.txt", sep = '\n') %>%
+  as_tibble() %>% 
+  filter(worldnews != "\"\"") %>%
+  unnest_tokens(word, 
+                worldnews, 
+                token = "words") %>%
+  anti_join(stop_words)
 
+science_t <- data.table::fread(input = "science_scrape_2.txt", sep = '\n') %>%
+  as_tibble() %>% 
+  filter(science != "\"\"") %>%
+  unnest_tokens(word, 
+                science, 
+                token = "words") %>%
+  anti_join(stop_words)
+
+showerthoughts_t <- data.table::fread(input = "showerthoughts_scrape_2.txt", sep = '\n') %>%
+  as_tibble() %>% 
+  filter(Showerthoughts != "\"\"") %>%
+  unnest_tokens(word, 
+                Showerthoughts, 
+                token = "words") %>%
+  anti_join(stop_words)
+
+announcements_t <- data.table::fread(input = "announcements_scrape_2.txt", sep = '\n') %>%
+  as_tibble() %>% 
+  filter(announcements != "\"\"") %>%
+  unnest_tokens(word, 
+                announcements, 
+                token = "words") %>%
+  anti_join(stop_words)
+
+```
+
+### Now let's take a look at the counts for the top 10 words in each category
+
+**Announcements**
+```{r}
+worldnews_t %>% count(word, sort = TRUE) %>% head(10)
+
+```
+
+**Science**
+```{r}
+science_t %>% count(word, sort = TRUE) %>% head(10)
+```
+
+**Showerthoughts**
+```{r}
+showerthoughts_t %>% count(word, sort = TRUE) %>% head(10)
+```
+
+**Announcements**
+```{r}
+announcements_t %>% count(word, sort = TRUE) %>% head(10)
+```
+
+### Now, let us create a combined frequency tibble for the four subreddits
+```{r}
+frequency <- bind_rows(mutate(worldnews_t,subreddit="WorldNews"),
+                       mutate(science_t,subreddit="Science"),
+                       mutate(showerthoughts_t,subreddit="Showerthoughts"),
+                       mutate(announcements_t, subreddit="Announcements")) %>% 
+  mutate(word = str_extract(word, "[a-z']+")) %>%
+  group_by(subreddit) %>%
+  count(word) %>%
+  mutate(proportion = n / sum(n)) %>% 
+  select(-n) %>% 
+  pivot_wider(names_from = "subreddit", values_from = "proportion") %>%
+  drop_na()
+
+frequency %>% head(10)
+```
+
+### Use the frequency tibble to create plot comparisons of the words for each category
+```{r}
+p1 <- ggplot(frequency, aes(x = `WorldNews`, y = `Science`)) + 
+  geom_abline(color = "red", lty = 2, lwd=2) +
+  geom_point(color="grey")+
+  geom_text(aes(label = word), check_overlap = TRUE) +
+  scale_x_log10() +
+  scale_y_log10()
+
+p2 <- ggplot(frequency, aes(x = `WorldNews`, y = `Showerthoughts`)) + 
+  geom_abline(color = "red", lty = 2, lwd=2) +
+  geom_point(color="grey")+
+  geom_text(aes(label = word), check_overlap = TRUE) +
+  scale_x_log10() +
+  scale_y_log10()
+
+p3 <- ggplot(frequency, aes(x = `WorldNews`, y = `Announcements`)) + 
+  geom_abline(color = "red", lty = 2, lwd=2) +
+  geom_point(color="grey")+
+  geom_text(aes(label = word), check_overlap = TRUE) +
+  scale_x_log10() +
+  scale_y_log10()
+
+
+p4 <- ggplot(frequency, aes(x = `Science`, y = `Showerthoughts`)) + 
+  geom_abline(color = "red", lty = 2, lwd=2) +
+  geom_point(color="grey")+
+  geom_text(aes(label = word), check_overlap = TRUE) +
+  scale_x_log10() +
+  scale_y_log10()
+
+p5 <- ggplot(frequency, aes(x = `Science`, y = `Announcements`)) + 
+  geom_abline(color = "red", lty = 2, lwd=2) +
+  geom_point(color="grey")+
+  geom_text(aes(label = word), check_overlap = TRUE) +
+  scale_x_log10() +
+  scale_y_log10()
+
+p6 <- ggplot(frequency, aes(x = `Showerthoughts`, y = `Announcements`)) + 
+  geom_abline(color = "red", lty = 2, lwd=2) +
+  geom_point(color="grey")+
+  geom_text(aes(label = word), check_overlap = TRUE) +
+  scale_x_log10() +
+  scale_y_log10()
+
+
+grid.arrange(p1, p2, p3, p4,p5, p6, nrow=2)
+```
+
+
+### Sentiments for each subreddit
+**Create a function to generate a sentiment plot given a tibble containing the word,**
+**and whether it is positive or negative**
+```{r}
+create_sentiment_pie <- function(data, title){
+  
+  sum_neg <- data %>% select(negative) %>% drop_na() %>% sum()
+  sum_pos <- data %>% select(positive) %>% drop_na() %>% sum()
+  x <-  c(sum_neg, sum_pos)
+  labels <-  c("Negative", "Positive")
+  
+  piepercent<- round(100*x/sum(x), 1)
+  
+  pie(x, labels = paste0(piepercent, "%"), main = title, col = rainbow(length(x)))
+  legend("topright", labels, cex = 0.8,
+         fill = rainbow(length(x)))
+}
+
+```
+
+**Preprocess the data to generate the tibble required by the function above**
+**This involves performing an inner join with bing sentiments, 
+```{r}
+worldnews_sentiment <- worldnews_t %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(word, sentiment) %>%
+  pivot_wider(names_from = "sentiment", values_from = "n")
+
+science_sentiment <- science_t %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(word, sentiment) %>%
+  pivot_wider(names_from = "sentiment", values_from = "n")
+
+showerthoughts_sentiment <- showerthoughts_t %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(word, sentiment) %>%
+  pivot_wider(names_from = "sentiment", values_from = "n")
+
+announcements_sentiment <- announcements_t %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(word, sentiment) %>%
+  pivot_wider(names_from = "sentiment", values_from = "n")
+
+```
+
+**Save the sentiment tibbles as csv files**
+```{r}
+write_csv(worldnews_sentiment, "worldnews_sentiment_2.csv")
+write_csv(science_sentiment, "science_sentiment_2.csv")
+write_csv(showerthoughts_sentiment, "showerthoughts_sentiment_2.csv")
+write_csv(announcements_sentiment, "announcements_sentiment_2.csv")
+
+
+```
+**Now we can call our function on the 4 subreddits**
+```{r}
+par(mfrow=c(2,2))
+create_sentiment_pie(worldnews_sentiment, "World News")
+create_sentiment_pie(science_sentiment, "Science")
+create_sentiment_pie(showerthoughts_sentiment, "ShowerThoughts")
+create_sentiment_pie(announcements_sentiment, "Announcements")
+
+
+```
 
