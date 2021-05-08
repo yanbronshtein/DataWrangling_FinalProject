@@ -1,11 +1,17 @@
-AnnouncementsEntries
+announcements
 Second
-"Photo or video? You don’t have to choose. With 8K Video Snap, turn your best frames into super-detailed, high-res stills and never miss a moment with Galaxy S21 Ultra 5G."
+"Make Mother’s Day epic, only on Verizon. Buy any Samsung Galaxy GS21 5G, get up to $1000 off another with Unlimited plans."
 An update on the recent issues surrounding a Reddit employee
 Today we’re testing a new way to discuss political ads (and announcements)
 Now you can make posts with multiple images.
 Update to Our Content Policy
 "Upcoming changes to our content policy, our board, and where we’re going from here"
+""
+""
+""
+""
+""
+""
 ""
 ""
 ""
@@ -32,15 +38,15 @@ Moderators
 ""
 ""
 ""
-Suspected Campaign from Russia on Reddit
-Suspected Campaign from Russia on Reddit
-The Extra Life Charity Award — Raise awareness for children's hospitals through gilding!
+""
+""
+""
 "Reddit Security Report -- October 30, 2019"
 "Reddit Security Report -- October 30, 2019"
 Changes to Our Policy Against Bullying and Harassment
 An Update on Content Manipulation… And an Upcoming Report
 An Update on Content Manipulation… And an Upcoming Report
-"This ad might not win any Reddit Gold, but it will help you compare and find the smartest financial products for you. Head to NerdWallet to see the smartest credit cards, mortgages, investing accounts, and more. No karma required."
+"There’s never been a better time to climb aboard your Railjack! We’ve made it easier than ever to jump right into action with a fleet of changes. Build, board & battle as a true Railjack captain. Take command of your crew & battle in deep space in Warframe’s latest update, Call of the Tempstarii."
 "Announcing RPAN, a limited-time live broadcasting experience"
 "Announcing RPAN, a limited-time live broadcasting experience"
 Introducing Community Awards!
@@ -92,18 +98,12 @@ Introducing r/redditsecurity
 Introducing r/redditsecurity
 Reddit’s 2018 transparency report (and maybe other stuff)
 It’s Election Day 2018 and We’ve Compiled Some Resources to Help You Vote
-"Photo or video? You don’t have to choose. With 8K Video Snap, turn your best frames into super-detailed, high-res stills and never miss a moment with Galaxy S21 Ultra 5G."
+"Make Mother’s Day epic, only on Verizon. Buy any Samsung Galaxy GS21 5G, get up to $1000 off another with Unlimited plans."
 "You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA."
 Revamping the Quarantine Function
 It’s US National Voter Registration Day. Are You Registered?
 MEME DAY: RESURGENCE — The EU Upload Filter Threat Is Back
 An update on the FireEye report and Reddit
-""
-""
-""
-""
-""
-""
 ""
 ""
 ""
@@ -176,7 +176,7 @@ Because it’s Valentine’s Day… here’s a long-winded blog post about moder
 Update on site-wide rules regarding involuntary pornography and the sexualization of minors
 "Not my first, could be my last, State of the Snoo-nion"
 Protect your account with two-factor authentication!
-"Play anytime, anywhere! Learn more about the Nintendo Switch and Nintendo Switch Lite systems to see which one (or two) works for you."
+"Snap instantly shareable photos, video clips and stories all at once with Single Take on Galaxy S21 5G."
 "It is Wednesday, my dudes. So here's an exciting native mobile update!"
 "The FCC’s vote was predictably frustrating, but we’re not done fighting for net neutrality."
 "Time for my quarterly inquisition. Reddit CEO here, AMA."
@@ -187,8 +187,6 @@ Reddit's new signup experience
 ""
 ""
 ""
-""
-""
 About Community
 An Official Community
 Related Communities
@@ -276,8 +274,8 @@ Moderators
 ""
 ""
 ""
-Adding r/olympics as a default community
-The 2021 all-electric Mustang Mach-E has impressive range. See what that actually looks like in Mustang Mach-E v Rocket Science.
+""
+"Embark on your next adventure in Call of the Tempestarii, available now on PC, Xbox, PlayStation and Nintendo Switch! Explore a sprawling universe, blast your way through ship-to-ship battles, navigate through treacherous Void Storms and unleash Sevagoth, the shadow of death."
 New Ad Type: Promoted User Posts
 Karma for text-posts (AKA self-posts)
 Image Hosting on Reddit
@@ -286,7 +284,7 @@ Let’s all have a town hall about r/all
 Let's talk about Orlando
 New look on Reddit mobile web: compact view
 Affiliate links on Reddit
-"Photo or video? You don’t have to choose. With 8K Video Snap, turn your best frames into super-detailed, high-res stills and never miss a moment with Galaxy S21 Ultra 5G."
+"Make Mother’s Day epic, only on Verizon. Buy any Samsung Galaxy GS21 5G, get up to $1000 off another with Unlimited plans."
 AMA about my darkest secrets
 "Reddit, account security, and YOU!"
 Reddit Mobile Apps
@@ -296,6 +294,10 @@ Reddit Mobile Apps
 ""
 ""
 ""
+""
+""
+""
+""
 About Community
 An Official Community
 Related Communities
@@ -411,7 +413,7 @@ Moderators
 ""
 ""
 ""
-"This Cinco de Mayo, we’re donating $250,000 to #FirstRespondersFirst to celebrate the Fighting Spirit of the heroic First Responders. Here’s to the hard work they’ve put in to make a safer Cinco celebration for all of us. Salud! #SaludToCinco"
+"Embark on your next adventure in Call of the Tempestarii, available now on PC, Xbox, PlayStation and Nintendo Switch! Explore a sprawling universe, blast your way through ship-to-ship battles, navigate through treacherous Void Storms and unleash Sevagoth, the shadow of death."
 Let's talk content. AMA.
 "Content Policy update. AMA Thursday, July 16th, 1pm pst."
 An old team at reddit
@@ -420,14 +422,12 @@ Removing harassing subreddits
 "Transparency is important to us, and today, we take another step forward."
 Bringing back the reddit.com beta program
 "From 1 to 9,000 communities, now taking steps to grow reddit to 90,000 communities (and beyond!)"
-"Photo or video? You don’t have to choose. With 8K Video Snap, turn your best frames into super-detailed, high-res stills and never miss a moment with Galaxy S21 Ultra 5G."
+"Create share-ready GIFs, videos and stories in a single take with the new Galaxy S21 Ultra 5G."
 We're updating the reddit Privacy Policy and User Agreement and we want your feedback - Ask Us Anything!
 Time to talk
 The official reddit AMA app has been released on Android
 New reddit features: Controversial indicator for comments and contest mode improvements
 "reddit changes: individual up/down vote counts no longer visible, ""% like it"" closer to reality, major improvements to ""controversial"" sorting"
-""
-""
 ""
 ""
 ""
@@ -575,7 +575,7 @@ Moderators
 ""
 What's reddit doing with all those programmers?
 On reddit's outage
-Cheez-It Grooves Scorchin' Hot Cheddar has so much flavor that you may actually want to upvote this ad.
+Only a Skittles rainbows can turn r/whatcouldgowrong into r/whatcouldgoright
 reddit mold is now live!
 "When this link is 1 hour old, reddit will go down for scheduled maintenance (see inside for details)"
 When this post was about 90 minutes old (9:20pm PST) reddit went down for maintenance
@@ -585,7 +585,7 @@ reddit gold gift creddits are now for sale!
 Wanted: Beta testers for reddit gold gifting code
 A number of reddit users have reported finding the cycbot.b virus on their Windows systems.
 "Quiet ads, new features, and an important video"
-"Photo or video? You don’t have to choose. With 8K Video Snap, turn your best frames into super-detailed, high-res stills and never miss a moment with Galaxy S21 Ultra 5G."
+Only a Skittles rainbows can turn r/whatcouldgowrong into r/whatcouldgoright
 reddit wants your permission to use your data for research to build some new features!
 Here's that analysis we promised of what happened yesterday traffic-wise (tldr: everything went better than expected).
 "reddit 101, or: click this if you're new around here! [updated]"
@@ -594,7 +594,7 @@ New features to start your week
 Why was reddit down!?
 "Welcome, Jeff!"
 new search
-Meet any challenge with Azure—your partner in the cloud.
+""
 ""
 About Community
 An Official Community
@@ -763,10 +763,10 @@ Moderators
 ""
 ""
 ""
-"reddit's May 2010 ""State of the Servers"" report (or: Why reddit was down on Wednesday)"
+""
 "New feature: inboxes show you your new mail, rather than crash the site"
 "We are aware that reddit appears hung over, and we are tracking down the cause now. Thank you for your patience."
-"Fear surrounds you in Resident Evil Village. Unleash a new chapter of survival horror. Play the Demo on PS5, PS4, XBSX, XB1, PC, and Stadia today!"
+Let Voltaren Arthritis Pain Gel help you take on your to-dos of the day with less joint pain.
 "We are aware that reddit appears hung over, and we are tracking down the cause now. Thank you for your patience."
 blog.reddit -- now this is how you pitch your product to an open source company
 A reddit experiment: Help us catch spammers by verifying your email address
@@ -776,7 +776,7 @@ You've just been drafted.
 Sorry about that :(
 blog.reddit: you can now message all the moderators on a reddit at once.
 "blog.reddit -- we've added private RSS feeds (inbox, saved, subscriptions, etc.)"
-"Photo or video? You don’t have to choose. With 8K Video Snap, turn your best frames into super-detailed, high-res stills and never miss a moment with Galaxy S21 Ultra 5G."
+"Snap instantly shareable photos, video clips and stories all at once with Single Take on Galaxy S21 5G."
 reddit has a new rendering engine! (hopefully you didn't notice)
 reddit does not run pop-over ads (at least on on purpose)
 "reddit will be down for maintenance for about two hours when this post is 22 hours old (10pm PST, 1am EST, 6am GMT, 5pm EDT)"
@@ -965,7 +965,7 @@ Moderators
 ""
 ""
 ""
-"Photo or video? You don’t have to choose. With 8K Video Snap, turn your best frames into super-detailed, high-res stills and never miss a moment with Galaxy S21 Ultra 5G."
+"Snap instantly shareable photos, video clips and stories all at once with Single Take on Galaxy S21 5G."
 reddit has a new rendering engine! (hopefully you didn't notice)
 reddit does not run pop-over ads (at least on on purpose)
 "reddit will be down for maintenance for about two hours when this post is 22 hours old (10pm PST, 1am EST, 6am GMT, 5pm EDT)"
@@ -974,7 +974,7 @@ reddit down for maintenance tonight 10pm Pacific (GMT -8)
 blog.reddit -- We've updated (and hopefully improved) the messaging interface.
 Sorry for the slowness in voting and commenting today. We're working to fix it.
 blog.reddit -- self serve advertising on reddit is now open for business!
-"We’re making more than just robots, we’re making artificial intelligence for kitchens. Flippy has already cooked over 60,000 pounds of fried food and 12,000 burgers. Learn more about the future of AI in kitchens and invest in Miso Robotics."
+"Unleash the shadow as the newest Warframe, Sevagoth and put the fear of the Void into your enemies. Discover the newest Warframe now in Call of the Tempestarii, available on all platforms."
 blog.reddit -- we added a safe for work option
 Introducing: /r/blog and /r/announcements
 About Community

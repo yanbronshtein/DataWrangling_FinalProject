@@ -25,61 +25,68 @@ library(scales)
 
 
 ```{r echo=TRUE, include=FALSE}
-#SEARCH_LIMIT = 5000
-SEARCH_LIMIT = 100
+SEARCH_LIMIT = 5000
+#SEARCH_LIMIT = 100
 
 scrape_reddit <- function(subreddit) {
+  #This is a selenium firefox standalone server running on docker on MacOS
   rD <- rsDriver(browser="firefox", port=4542L, verbose=F)
   remDr = rD[["client"]]
-  url = paste0("https://www.reddit.com/r/", subreddit, "/")
-  remDr$navigate(url)
-  last_height = 0 #
-  scraped_text <- c(subreddit)
+  url = paste0("https://www.reddit.com/r/", subreddit, "/") #Reddit URL
+  remDr$navigate(url) #Selenium opens this link in firefox
+  last_height = 0 #Keep track of height so selenium knows where to scroll
+  scraped_text <- c(subreddit) #Initialized scraped_text vector to name of subreddit
   repeat {   
+    #Select elements using the class selector which selects the texts from reddit posts
     elems <- remDr$findElements(using = "class name", "_eYtD2XCVieq6emjKBH3m")
     
+    #For each element, append the extracted text to the scraped_text vector
     for (elem in elems) {
       scraped_text <- c(scraped_text, elem$getElementText())
     }
+    #Have selenium Scroll to the bottom
     remDr$executeScript("window.scrollTo(0,document.body.scrollHeight);")
     Sys.sleep(3) #delay by 3sec to give chance to load. 
     
     # Updated if statement which breaks if we can't scroll further 
     new_height = remDr$executeScript("return document.body.scrollHeight")
+    #Break from the loop if we have reached the end of the subreddit or the preset
+    #SEARCH limit has been reached.
+    #Otherwise, update the last_height
     if(unlist(last_height) == unlist(new_height) | length(scraped_text) > SEARCH_LIMIT) {
       break
     } else {
       last_height = new_height
     }
   }
-  remDr$close()
-  rD$server$stop()
-  return(scraped_text)
+  remDr$close() #Close the client
+  rD$server$stop() #Stop the selenium server
+  return(scraped_text) 
 }
 ```
 
 **DEMO**
 ```{r}
-subreddit_demo = 'futurology'
-my_demo = scrape_reddit(subreddit_demo)
-fwrite(list(my_demo), file = "my_demo.txt")
+#subreddit_demo = 'futurology'
+#my_demo = scrape_reddit(subreddit_demo)
+#fwrite(list(my_demo), file = "my_demo.txt")
 
 
-my_demo_t <- data.table::fread(input = "my_demo.txt", sep = '\n') %>%
-  as_tibble() %>% 
-  filter(subreddit_demo != "\"\"") %>%
-  unnest_tokens(word, 
-                subreddit_demo, 
-                token = "words") %>%
-  anti_join(stop_words)
+#my_demo_t <- data.table::fread(input = "my_demo.txt", sep = '\n') %>%
+#  as_tibble() %>% 
+#  filter(subreddit_demo != "\"\"") %>%
+#  unnest_tokens(word, 
+#                subreddit_demo, 
+#                token = "words") %>%
+#  anti_join(stop_words)
 
 
-demo_sentiment <- my_demo_t %>%
-  inner_join(get_sentiments("bing")) %>%
-  count(word, sentiment) %>%
-  pivot_wider(names_from = "sentiment", values_from = "n")
+#demo_sentiment <- my_demo_t %>%
+#  inner_join(get_sentiments("bing")) %>%
+#  count(word, sentiment) %>%
+#  pivot_wider(names_from = "sentiment", values_from = "n")
 
-create_sentiment_pie(demo_sentiment, subreddit_demo)
+#create_sentiment_pie(demo_sentiment, subreddit_demo)
 
 
 
@@ -99,16 +106,16 @@ announcements_scrape <-scrape_reddit("announcements")
 
 **save initial scraped data into text files**
 ```{r echo=TRUE, include=FALSE}
-fwrite(list(worldnews_scrape), file = "worldnews_scrape_2.txt")
-fwrite(list(science_scrape), file = "science_scrape_2.txt")
-fwrite(list(showerthoughts_scrape), file = "showerthoughts_scrape_2.txt")
-fwrite(list(announcements_scrape), file = "announcements_scrape_2.txt")
+fwrite(list(worldnews_scrape), file = "worldnews_scrape.txt")
+fwrite(list(science_scrape), file = "science_scrape.txt")
+fwrite(list(showerthoughts_scrape), file = "showerthoughts_scrape.txt")
+fwrite(list(announcements_scrape), file = "announcements_scrape.txt")
 ```
 
 
 **Process and tidy the data by reading from the file **
 ```{r echo=FALSE, include=FALSE}
-worldnews_t <- data.table::fread(input = "worldnews_scrape_2.txt", sep = '\n') %>%
+worldnews_t <- data.table::fread(input = "worldnews_scrape.txt", sep = '\n') %>%
   as_tibble() %>% 
   filter(worldnews != "\"\"") %>%
   unnest_tokens(word, 
@@ -116,7 +123,7 @@ worldnews_t <- data.table::fread(input = "worldnews_scrape_2.txt", sep = '\n') %
                 token = "words") %>%
   anti_join(stop_words)
 
-science_t <- data.table::fread(input = "science_scrape_2.txt", sep = '\n') %>%
+science_t <- data.table::fread(input = "science_scrape.txt", sep = '\n') %>%
   as_tibble() %>% 
   filter(science != "\"\"") %>%
   unnest_tokens(word, 
@@ -124,7 +131,7 @@ science_t <- data.table::fread(input = "science_scrape_2.txt", sep = '\n') %>%
                 token = "words") %>%
   anti_join(stop_words)
 
-showerthoughts_t <- data.table::fread(input = "showerthoughts_scrape_2.txt", sep = '\n') %>%
+showerthoughts_t <- data.table::fread(input = "showerthoughts_scrape.txt", sep = '\n') %>%
   as_tibble() %>% 
   filter(Showerthoughts != "\"\"") %>%
   unnest_tokens(word, 
@@ -132,7 +139,7 @@ showerthoughts_t <- data.table::fread(input = "showerthoughts_scrape_2.txt", sep
                 token = "words") %>%
   anti_join(stop_words)
 
-announcements_t <- data.table::fread(input = "announcements_scrape_2.txt", sep = '\n') %>%
+announcements_t <- data.table::fread(input = "announcements_scrape.txt", sep = '\n') %>%
   as_tibble() %>% 
   filter(announcements != "\"\"") %>%
   unnest_tokens(word, 
@@ -171,11 +178,11 @@ frequency <- bind_rows(mutate(worldnews_t,subreddit="WorldNews"),
                        mutate(science_t,subreddit="Science"),
                        mutate(showerthoughts_t,subreddit="Showerthoughts"),
                        mutate(announcements_t, subreddit="Announcements")) %>% 
-  mutate(word = str_extract(word, "[a-z']+")) %>%
+  mutate(word = str_extract(word, "[a-z']+")) %>% #Extract the words
   group_by(subreddit) %>%
   count(word) %>%
-  mutate(proportion = n / sum(n)) %>% 
-  select(-n) %>% 
+  mutate(proportion = n / sum(n)) %>% #compute the proportion
+  select(-n) %>% #Select everything but n
   pivot_wider(names_from = "subreddit", values_from = "proportion") %>%
   drop_na()
 
@@ -256,22 +263,22 @@ create_sentiment_pie <- function(data, title){
 **This involves performing an inner join with bing sentiments, 
 ```{r}
 worldnews_sentiment <- worldnews_t %>%
-  inner_join(get_sentiments("bing")) %>%
+  inner_join(get_sentiments("bing")) %>% #get only words that are also contained in bing sentiment
   count(word, sentiment) %>%
   pivot_wider(names_from = "sentiment", values_from = "n")
 
 science_sentiment <- science_t %>%
-  inner_join(get_sentiments("bing")) %>%
+  inner_join(get_sentiments("bing")) %>%  #get only words that are also contained in bing sentiment
   count(word, sentiment) %>%
-  pivot_wider(names_from = "sentiment", values_from = "n")
+  pivot_wider(names_from = "sentiment", values_from = "n") 
 
 showerthoughts_sentiment <- showerthoughts_t %>%
-  inner_join(get_sentiments("bing")) %>%
+  inner_join(get_sentiments("bing")) %>% #get only words that are also contained in bing sentiment
   count(word, sentiment) %>%
   pivot_wider(names_from = "sentiment", values_from = "n")
 
 announcements_sentiment <- announcements_t %>%
-  inner_join(get_sentiments("bing")) %>%
+  inner_join(get_sentiments("bing")) %>% #get only words that are also contained in bing sentiment
   count(word, sentiment) %>%
   pivot_wider(names_from = "sentiment", values_from = "n")
 
@@ -279,10 +286,10 @@ announcements_sentiment <- announcements_t %>%
 
 **Save the sentiment tibbles as csv files**
 ```{r}
-write_csv(worldnews_sentiment, "worldnews_sentiment_2.csv")
-write_csv(science_sentiment, "science_sentiment_2.csv")
-write_csv(showerthoughts_sentiment, "showerthoughts_sentiment_2.csv")
-write_csv(announcements_sentiment, "announcements_sentiment_2.csv")
+write_csv(worldnews_sentiment, "worldnews_sentiment.csv")
+write_csv(science_sentiment, "science_sentiment.csv")
+write_csv(showerthoughts_sentiment, "showerthoughts_sentiment.csv")
+write_csv(announcements_sentiment, "announcements_sentiment.csv")
 
 
 ```

@@ -1,15 +1,13 @@
-WorldNewsEntries
-U.S. to restrict travel from Covid-ravaged India
-Cyberpunks. Gangsters. Walkers. Explore Epic Worlds with TV's boldest characters and start your free trial to AMC+ today.
-"Belgium melts down over 22,000 firearms into recycled steel"
-Antarctic ‘doomsday glacier’ may be melting faster than was thought
-Mexico: 'Revenge Porn' to be punishable with jail term of up to 6 years
-"Belarus: 2008 Olympic medalist on 10-day hunger strike, sells medal, in protest of jailing of 100s for political views"
-"China adopts law against food waste; binge eating, excessive leftovers to face fines"
-"Delaying Climate Action Harms Youth, German High Court Rules in 'Huge Win for the Climate Movement'"
-Israel faces pressure to follow U.S. Armenian Genocide move despite Turkey ties
-Al Qaeda promises 'war on all fronts' against America as Biden pulls out of Afghanistan
-It’s no science experiment. It’s your cash back multiplying. Discover matches all the cash back you’ve earned at the end of your first year.
+worldnews
+Scientists in the Netherlands have taught bees to smell the coronavirus. They can identify a case within seconds. It could be a low-tech solution for identifying COVID-19 cases.
+"A Yemeni model arrested two months ago for ""challenging social norms"" is at risk of undergoing a forced ""virginity test."" Entisar al-Hammadi was arrested in February in Sanaa, where the Iran-backed Huthi rebels who control the Yemeni capital are enforcing a morality campaign"
+"China has urged United Nations member states not to attend an event planned next week by Germany, the United States and Britain on the repression of Uyghur Muslims and other minorities in Xinjiang, according to a note seen by Reuters on Friday"
+Afghanistan is being overrun by crystal meth as US begins withdrawal.
+"COVID is killing 120 people an hour in India, and it could stay ""really grim"" for months"
+"80 percent of Pakistan’s pangolins lost to illegal hunting, illegal trade mainly with China: World Wildlife Fund"
+The new African free trade area will eliminate 97% of tariffs within 13 years.
+Anti-Olympics campaign gains traction online in Japan
+"Sheikh Jarrah Evictions Posts Being Censored by Instagram, Say Palestinians"
 About Community
 Filter by flair
 r/worldnews Rules
@@ -21,41 +19,36 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-It’s no science experiment. It’s your cash back multiplying. Discover matches all the cash back you’ve earned at the end of your first year.
-Scotland could become the world’s first ‘rewilding nation’
-EU charges Apple with breach of competition law
-Flu Has Disappeared Worldwide during the COVID Pandemic
-Russia adds Alexei Navalny network to 'extremist' list
-Japan asks Canada to fight anti-Asian hate crime
-"Religious festival stampede in Israel kills 44, hurts dozens"
-India's new registered COVID-19 cases cross 400k per day.
-"Egypt ‘will not give up a single drop of Nile water,’ vows PM"
-"Redditors with genital herpes, we’ve got some great news. Femiclear kills 99.9% of the herpes simplex virus and can provide you with much needed relief. And it’s made with all-natural and organic ingredients! Available over the counter at CVS (by the condoms). Click through for a $10 CVS coupon."
-"Bronze Age treasure found in Swedish forest by mapmaker. A man surveying a forest for his orienteering club in western Sweden stumbled on a trove of Bronze Age treasure reckoned to be some 2,500 years old"
-Turkish police told to prevent people filming them - media
-Huge rocket looks set for uncontrolled reentry following Chinese space station launch
-"Israel’s Iron Dome missile defense causing cancer among soldiers, report claims"
-Lawyer for Navalny Is Arrested in Moscow
-Guantánamo detainee takes on CIA ‘black sites’ in UN human rights case
-"Brazilian Activists Display Fake Body Bags Representing Dead as Country Becomes Second to Pass 400,000 Deaths"
-Ireland sending 700 oxygen concentrators to India
-Navalny says Putin is a 'naked king' whose crown is 'sliding from his ears' amid mass anti-government protests in Russia
-Polish town scraps controversial move to declare itself 'LGBT-free'
-Have you ever wanted to own a business? As an Amazon Delivery Service Partner you can start a package-delivery business in your community with support from Amazon. Get started today.
-Palestinian president decides — on his own — to postpone elections
-US begins final withdrawal of troops from Afghanistan to end America’s longest war
-White House Says It Is Open to Diplomatic Talks With North Korea
-Woman who starved and abused her Myanmar maid to death seeks to avoid life imprisonment
-"The Philippines government exposed 345,000 sensitive legal docs online"
-U.S. to restrict travel from Covid-ravaged India
-""
-""
-""
-""
+The new African free trade area will eliminate 97% of tariffs within 13 years.
+Anti-Olympics campaign gains traction online in Japan
+"Sheikh Jarrah Evictions Posts Being Censored by Instagram, Say Palestinians"
+"In major move, South Africa to end captive lion industry"
+Bill Gates backed company releases first batch of genetically modified self-destructive mosquitoes.
+"Israeli Police fire rubber bullets and stun grenades upon Palestinian worshippers at al-Aqsa Mosque, Islam's third holiest site; 178 Palestinians injured, 88 hospitalised, 5 with major head injury"
+"Indigenous people in Colombia knocked down a statue of Spanish conquistador Gonzalo Jimenez de Quesada, who founded the capital Bogota, as protests against the government continued. Photos showed members of the Misak indigenous community standing on the empty pedestal"
+Crucial Scottish elections on ‘knife edge’ as pro-independence SNP win early seats
+British Labour Party Leader Keir Starmer concedes Labour has lost the trust of working people
+"Pink Floyd lead singer Waters: Israel is an apartheid state - While the reactions to the Masjid al-Aqsa raid continued, Pink Floyd’s lead singer Roger Waters shared a post targeting Israel on his social media account."
+"Nepali climber summits Everest 25th time, breaks record"
+"In threat to Russia, EU grants U.S. troops ‘unhindered’ movement across continent"
+"Canada inches closer to waiving intellectual property rights on vaccines, amid political pressure"
+More than 170 Palestinians hurt in Jerusalem clashes
+"9,000 Fliers May Have Had Reused Swabs Jammed Up Their Noses In Indonesia"
+Israeli apartheid: Israeli soldiers are attacking Palestinians in their homes and mosques
+Modi presses ahead with $1.8 billion parliament renovation even as Covid-19 ravages India
+"2 men arrested, over 7kg of uranium seized in India"
+New concerns as Indian Covid variant clusters found across England
+Mass rape used as weapon six months into war in Ethiopia’s Tigray
+"Bye, bye, birdie rule: U.S. quashes Trump environmental weakening that angered Canada | CBC News"
+"Deforestation of the Brazilian Amazon hit a record last month, the government reported with figures that belie President Jair Bolsonaro's pledge to crack down on such destruction. The rainforest that was destroyed marked a new high for the month of April and a 42.5 percent year-on-year rise"
+"German Govt places ban on an Islamic corporation that is based in Nigeria, over terror links"
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+Leader of world's largest vaccine manufacturer flees India after threats from rich and powerful
+New species of prehistoric turtle discovered in Madagascar
+Azerbaijani Opposition Activist Found Dead In Turkey
+Homeownership dreams dashed for many young Canadians as house prices soar
+Homeownership dreams dashed for many young Canadians as house prices soar
+"In this Indian state, one in every two people tested is positive for Covid"
 ""
 ""
 ""
@@ -64,80 +57,6 @@ U.S. to restrict travel from Covid-ravaged India
 ""
 ""
 ""
-""
-About Community
-Filter by flair
-r/worldnews Rules
-Related Subs
-Moderators
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-"Kurdistan Green Party condemns Turkey’s cutting of Euphrates water, calls on international community to intervene"
-Pope Francis issues law that forbids Vatican employees from accepting gifts over $48
-At least 40 tonnes of dead fish wash up on shore of polluted Lebanese lake
-Pfizer to start shipping coronavirus vaccine to Canada
-Egypt archeologists unearth 110 ancient tombs in Nile Delta
-"India's election commission should face murder charges over Covid-19 spike, Madras High Court says"
-"Saudi Arabia introduces Hinduism, Yoga, and Hindu epics in their school curriculum"
-Indonesian cops investigate reuse of cotton swab in Covid-19 tests at airport
-Judgement Free ADHD Treatment Delivered. 📅 Virtual Consultation As Soon As Next Day. ✔️ HSA/FSA Eligible
-"Brazil tops 400,000 virus deaths amid fears of renewed surge"
-1bn COVID jabs given globally – but over half in just 3 countries
-Burns death of homophobia victim shocks Latvia
-Lionel Messi set to receive Chinese Sinovac vaccine with Argentina teammates
-"Citing own robust system, India turns down UN supply chain help: Spokesperson"
-"Masafumi Ito, leader of the Amazon Japan Union, sues for wrongful termination"
-Germany first to hand back Benin bronzes looted by British
-U.S. tells American citizens to leave India as soon as possible
-Judgement Free ADHD Treatment Delivered. 📅 Virtual Consultation As Soon As Next Day. ✔️ HSA/FSA Eligible
-"As Russia's confrontation with the West escalates, so has its crackdown on dissent at home"
-"Reporters without borders (RFS) has released the 2021 press freedom index. 7% of countries have ""favorable"" conditions for journalists, 73% have ""problematic"" conditions or worse."
-"Deadly landslide hits Indonesian dam being built in critically endangered orangutan habitat, again: 3 dead and 9 missing"
-Germany to return looted Benin Bronzes to Nigeria in 2022
-Taiwan bans recruitment from China to combat chip talent poaching
-Pfizer to export U.S.-made COVID-19 shots to Canada starting next week
-Australian government may make it a crime for citizens to return from Covid-ravaged countries
-"U.S. Government Hid Presence of U.S. Advisor in El Mozote Massacre, Expert Says"
-"Double crises of coup and Covid could push half of Myanmar's population into poverty, UN warns"
-We created Chime because we believe everyone deserves financial peace of mind.
 ""
 ""
 ""
@@ -190,61 +109,36 @@ Moderators
 ""
 ""
 ""
+More than 130 injured as Palestinian worshippers clash with Israeli police at Al-Aqsa mosque
+"Change the game, and take your creativity to the next level with Adobe Creative Cloud. Students save up to 60% off."
+Germany rejects US proposal to waive patents on COVID-19 vaccines
+Russia’s Payday Loans Hit Record High
+Israeli police attack worshippers in Al-Aqsa Mosque
+"Bolsonaro faces criminal investigation, possible impeachment over COVID response in Brazil"
+"'They threatened to kill my sister and post it on YouTube,' says brother of abducted Nigerian student"
+China Is Building Entire Villages in Another Country’s Territory
+"Israel soldiers, settlers attack Palestinians resisting forceful eviction in Sheikh Jarrah"
+"Putin Looks to Make Equating Stalin, USSR to Hitler, Nazi Germany Illegal"
+Chinese diplomat lists officials who have been punished since COVID-19 outbreak in Wuhan
+Discover how long it takes to develop immunity after receiving a COVID-19 vaccine.
+"“If I don’t steal your home, someone else will steal it”"
+Myanmar Junta Grabs Family Members to Get at Wanted Protesters
+Nepal facing ‘human catastrophe’ similar to India’s amid Covid surge
+"EU calls on US, other countries to be willing to export their Covid-19 vaccines"
+"Amnesty International to restore 'prisoner of conscience' status to Russia's Navalny, says aide"
+Canadian dollar tops 82 cents for 1st time since 2017
+Israeli police clash with protesters over Palestinian evictions
+North Korea claims Covid-19 could float into country by balloons from the South
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+"Entisar al-Hammadi, Model Arrested in Yemen, Will Be Forced to Undergo 'Virginity Test,' Lawyer Says"
+"2 men arrested, over 7kg of uranium seized in India"
+"WHO gives emergency approval to Sinopharm, first Chinese COVID-19 vaccine"
+‘A dirty business’: how one drug is turning Syria into a narco-state
+India blocks China-made wireless device imports: Report
+Destruction of Brazil's Amazon rainforest speeds up for 2nd straight month
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-"Israel’s Netanyahu booed by bereaved protesters at stampede site | Middle East News"
-Aberdeenshire pig farmer under investigation for animal welfare breach
-"Chad's army on Friday said it had killed ""several hundred"" rebels over two days of fighting in the country's west, where President Idriss Deby Itno was killed at the front line this month. The UN said over 700 people were arrested following demonstrations against the new military regime"
-Afghanistan car bomb kills 30 at guesthouse in Logar province
-India Extends Suspension Of International Flights Till May-End
-Navalny Ally Sentenced to 2.5 Years in Prison For Reposting Music Video
-"Rape victims in south Asia still face vaginal tests, report finds. The test involves a medical practitioner inserting two fingers into the vagina of a rape survivor in an attempt to determine if the hymen is broken, as well as to test laxity in the vagina."
-Abbas delays Palestinian elections; Hamas slams 'coup'
-Have you ever wanted to own a business? As an Amazon Delivery Service Partner you can start a package-delivery business in your community with support from Amazon. Get started today.
-"Pfizer begins exporting U.S. made COVID-19 shots abroad, starting with Mexico"
-Moehanga Day: New Zealand’s Māori mark the day they ‘discovered’ Britain
-US to restrict travel from India over COVID starting Tuesday
-"Tigray could face famine without increased access to region, US aid official says"
-"Navalny appears in court for first time since ending hunger strike, saying 'I'm just an awful skeleton'"
-"Suicide bombing kills over 20 in Afghanistan’s Logar province | Asia News"
-Moehanga Day: New Zealand’s Māori mark the day they ‘discovered’ Britain
-Venezuela gives US oilmen house arrest in gesture to Biden
-Flowers make everything better. Especially your mom’s disappointment that your “crowning achievement” is blowing your life savings on NFTs.
-Lebanon battles swarms of locusts after wind changes direction
-Colombia’s ex-FARC leaders admit kidnapping and other crimes
-Kim Jong Un Ordered Execution of Senior Foreign Ministry Official for Importing China-Made Medical Equipment: Report
-‘A coup’: Palestinian factions slam parliamentary poll delay.
-"India declines UN's offer of assistance from integrated supply chain, says it has 'robust system'"
-Ship prepares to ferry chemicals out of Beirut port
-Hezbollah supporters and Pro-Palestinian social media celebrate Meron deaths
-US to restrict travel from India over COVID starting Tuesday
-"This season, help protect playtime. Fight fleas and ticks for 8 continuous months with Seresto®, the easy-to-use collar carried by 8,000+ vet hospitals nationwide. And play on and on and on the convenient, effective, long-lasting way — no Rx required"
 ""
 ""
 ""
@@ -323,61 +217,38 @@ Moderators
 ""
 ""
 ""
+"India sees record COVID-19 rise -- 412,000 new cases in single day"
+"Wonder how your favorite Photoshop battles get made? Well, with Photoshop! It’s just one of the 20+ creative apps you’ll find in Adobe Creative Cloud. Students save 60%!"
+Alberta's cross-border truckers to be vaccinated by Montana
+"Indian delegation at G7 in London forced to self-isolate, tested positive for coronavirus after landing - despite presenting a negative test while boarding"
+"Ethiopian Orthodox Church patriarch blasts Tigray 'genocide': ""I have said a lot of things but no one allows the message to be shared. Rather, it is being stifled and censored."""
+COVID: Indian courts demand government accountability
+"China’s greenhouse gas emissions exceed those of U.S. and developed countries combined, report says"
+Welsh election results 2021: Labour holds ground against Tory challenge
+EU reviews reports of rare nerve disorder after AstraZeneca's COVID-19 shot
+Possible Israel war crimes in East Jerusalem land right case: UN
+Asking for help isn’t easy but helping families in your community can be.
+China-US tensions move to space as rocket debris heads for Earth
+"Ireland not being singled out over tax in EU Covid fund, Commissioner says"
+‘A scene out of the middle ages’: Dead refugee found surrounded by rats at Greek camp
+Iran's Khamenei says fight against Israel is a public duty
+W.H.O. Approves China’s Sinopharm Vaccine for Emergency Use
+Global condemnation of Colombia's use of 'excessive force' against protesters
+"More than 200 hurt as Israeli police clash with Palestinians at Jerusalem mosque, Palestinian Red Crescent says"
+US joins Christchurch Call to eliminate terrorist and violent extremist content online
+Brazil violence: Rio police accused by residents of abuses in raid
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+China’s People's Liberation Army Navy (PLAN) is enhancing its ability to strike the United States mainland with submarine-launched ballistic missiles
+China’s People's Liberation Army Navy (PLAN) is enhancing its ability to strike the United States mainland with submarine-launched ballistic missiles
+COVID vaccine: WHO approves China's Sinopharm for emergency use
+BBC News - Al-Aqsa mosque: Dozens hurt in Jerusalem clashes
+Scientists OK plan to release one million tonnes of waste water from Fukushima
+Maldives ex-President Mohamed Nasheed ‘critical’ after bomb blast
 ""
 ""
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-Russia adds Navalny's regional campaign offices to extremism list
-First pregnant Egyptian mummy.
-Ethiopia: Fears upcoming election could fuel ethnic conflict
-"28 people crushed to death, dozens hurt at mass Lag B'Omer event in Mt. Meron"
-"Europe’s economy shrinks as US, China recoveries power ahead"
-"Anger as Hong Kong orders compulsory Covid tests for city’s 370,000 domestic workers amid mutant strain fears"
-Israel works to identify 45 killed in Lag Ba'omer Mount Meron stampede
-"Abbas delays first Palestinian elections in 15 years, blaming Israel"
-"Made for you, in every way. To create your own diamond engagement ring, select a ring setting on our site and pair it with one of our Beyond Conflict Free Diamonds™."
-Saudi crown prince strikes conciliatory tone towards rival Iran
-Al Qaeda promises 'war on all fronts' against America as Biden pulls out of Afghanistan
-"China hits Trump for making Americans pay ""high price"" in COVID-19 pandemic"
-Heartbreaking Photos Show How Dire This Coronavirus Surge In India Is
-Car bomb kills dozens in Afghanistan’s Logar province
-Italians set to decimate bird cited by Song of Songs as messenger of spring
-"Grief and anger as Covid victims overwhelm Delhi’s crematoriums | Coronavirus"
-Brazil's Bill Repealing National Security Law Has its Own Threats to Free Expression
-Is a $40K bonus on your horizon? You can earn up to that much in enlistment bonuses when you start your journey now. Talk to your local Recruiter for more info.
-At least 45 killed in stampede at large Israeli religious festival
-Russia adds Navalny's regional campaign offices to 'extremism' list
-"India’s Covid crisis is out of control—but the Modi government won’t let you tweet about it. As India’s Covid-19 crisis becomes insurmountable, the Narendra Modi government has been widely criticised for trying to filter what the world hears about the worst pandemic outbreak anywhere on the planet."
-Deadly fighting on Kyrgyzstan-Tajikistan border kills at least 31
-China's Xi offers more help to India in message to Modi
-"Virus surge, vaccine shortages spread beyond India's borders"
-Blast kills 27 people in Afghanistan's eastern Logar province - local official
-"Global FDI hit 15-year low in 2020, China overtook U.S.: OECD"
-"Censorship sucks, that's why we reveal the goods 👀"
-Kyrgyzstan-Tajikistan violence: Deadly clash amid water dispute
 ""
 ""
 About Community
@@ -484,58 +355,34 @@ Moderators
 ""
 ""
 ""
+"Change the game, and take your creativity to the next level with Adobe Creative Cloud. Students save up to 60% off."
+"Anti-Olympics petition garners over 200,000 signatures at record pace"
+Trudeau won’t state position on patent waivers for COVID-19 vaccines as pressure from MPs grows
+Trudeau won’t state position on patent waivers for COVID-19 vaccines as pressure from MPs grows
+Ethiopia’s crackdown on ethnic Tigrayans snares thousands
+India's Covid crisis delivers a blow to brand Modi
+Brazil violence: Rio police accused by residents of abuses in raid
+Dubai luxury home market soars as world's rich flee pandemic
+'Major attack' in Israel foiled as 3 gunmen shot in firefight near military base
+"Palestinian gunmen open fire toward military base; 2 attackers killed, 1 injured"
+Latvia officially recognizes Armenian Genocide
+"Vaccination will help protect you from getting COVID-19. Side effects, if any, should go away in a few days."
+"Palestinians, Israel police clash at Al-Aqsa mosque; 53 hurt"
+Centre Turned Down Punjab’s Proposal to Urgently Buy Oxygen From Pakistan: Punjab CM
+Modi presses ahead with $1.8 billion parliament renovation even as Covid-19 ravages India.
+German call to ban 'Jewish star'; at Covid demos
+"Amnesty International to restore 'prisoner of conscience' status to Russia's Navalny, says aide"
+Conservatives make gains on English councils
+"Jordan tells Israel to avoid more ""provocative"" actions against Palestinians after 2 killed"
+Dozens of Palestinians hurt in Al-Aqsa clashes
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+Scottish Election 2021 results: Scottish National Party set for fourth term win
+25 people killed during police Raid in Rio De Janeiro (Including 1 police officer)
+"'Heirs of fascism' can't judge me, Belarus leader says of criminal case in Germany"
+G-7 Countries Back Taiwan's Observer Status in World Health Assembly
+Mayor of Polish city making Covid jabs compulsory given police protection after death threats
+"Over 7 kg radioactive uranium, worth ₹21.3 crore, seized in Maharashtra"
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-Kyrgyzstan-Tajikistan violence: Deadly clash amid water dispute
-Taiwan bans recruitment for jobs in China to combat brain drain
-Eurozone suffers double-dip recession as pandemic impact continues
-"Just 8 of 368 Tons of U.S. Aid to Venezuela Actually Reached Country, Report Says"
-U.N. envoy says Myanmar military faces strong demands for democracy
-BBC News: Noel Clarke says sorry but denies sexual misconduct
-World will lose 10% of glacier ice even if it hits climate targets
-Israel buries first victims after festival crush.
-4 out of 5 cats agree — Advantage® II prevents fleas all month long.
-"A year after Ecuador oil spill, Indigenous victims await justice: reliant on the river for millennia, they are struggling to adapt to other livelihoods"
-"Ukraine faces sharp criticism from U.S., EU after sacking management at state energy company"
-"German Court Orders Revisions To Climate Law, Citing 'Major Burdens' On Youth"
-Germany to return Benin Bronzes looted during colonial era
-"Our warplanes can reach Iran, Israeli minister warns amid nuclear talks"
-Rhyl pupils sent home after travellers set up camp at school
-The unmaking of India
-English football announces social media boycott to protest abuse and discrimination
-"Japan approves world's largest trade deal including China, ASEAN"
-Not happy with your student loans? Splash is here to help! Our easy application process takes the hassle out of refinancing. Check your rate today to see what you could be saving.
-Lebanon battles swarms of locusts after wind changes direction
-Stampede in Israel killed 40 and injured 100.
-Canadian social democratic leader ‘very encouraged’ that Liberals willing to make changes to their climate accountability legislation
-Jagmeet Singh ‘very encouraged’ that Liberals willing to make changes to their climate accountability legislation
-If we don't like the nuclear plan the US makes our war planes are ready to attack Iran. Israeli Minister warns.
-Guantanamo detainee Abu Zubaydah to file complaint with UN agency
-Olympics Updates Ground Rules for Games: Daily Tests and Dining Alone
-Al Qaeda promises 'war on all fronts' against America as Biden pulls out of Afghanistan
-"Dubai Airports boss blasts UK travel ban as ‘wrong,’ ‘not practical’ as traffic slumps by nearly 70%"
 About Community
 Filter by flair
 r/worldnews Rules
@@ -670,58 +517,32 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-"Afghan forces prepare to take on the Taliban without U.S. help, because there's ""no other option."""
-Crush at Israeli religious festival kills at least 44
-NIH Announces 3 New Funding Opportunities for Research to Help End the HIV Epidemic in EHE Jurisdictions and with Local Partners
-NIH Announces 3 New Funding Opportunities for Research to Help End the HIV Epidemic in EHE Jurisdictions and with Local Partners
-"Egyptian mummy thought to be a male priest actually a pregnant woman, researchers find"
-Australians may be fined or jailed for entering [Australia] from India
-V.A. disability appeals can feel like a battle. We’ll help you fight. Veteran Legal Group supports veterans every day. Request your free consultation.
-"As India's crematoriums overflow with Covid victims, pyres burn through the night"
-"India COVID cases cross 18 million, gravediggers work round the clock"
-'No more sacred places': Heritage sites under siege in Tigray conflict
-Palestinians postpone long-awaited elections in West Bank and Gaza
-Israel crush: Netanyahu vows to investigate 'terrible disaster'
-Lawyer representing Navalny’s foundation detained in Moscow
-Indian Billionaires Hunker Down In Safety Bubbles As Covid Rages On
-"US cartoonist accuses Hong Kong publisher of theft over 'McInvasion' artwork in liberal studies textbook | Hong Kong Free Press HKFP"
-"Kyrgyzstan, Tajikistan look to ease tensions after deadly clashes"
-Judgement Free ADHD Treatment Delivered. 📅 Virtual Consultation As Soon As Next Day. ✔️ HSA/FSA Eligible
-Insider attacks against Afghan army surged this year: Report
-Germany puts anti-lockdown activists under surveillance
-Barcelona installs Spain’s first solar energy pavement.
-"Moldovan president dissolves parliament, calls snap election"
-Two Myanmar airbases attacked amid anti-coup protests: Reports
-Satellites show world’s glaciers melting faster than ever
-"""Just think of doing good"": Indian paramedics battle deluge of COVID patients"
-Europe's recession deepened in the first quarter but the recovery is underway
+Massacre of protesters and economic crisis push Colombia workers to strike
+‘A dirty business’: how one drug is turning Syria into a narco-state
+What does it take to make it in the world of cat-riding cowboys? Your imagination and a little Photoshop – just one of the 20+ creative apps in Adobe Creative Cloud. Students save 60%.
+Vaccine tourism: Canadians fly south for shot as U.S. demand falls
+Vaccine tourism: Canadians fly south for shot as U.S. demand falls
+"At least 17 Everest climbers have tested positive for the coronavirus, but Nepal refuses to say there's an outbreak"
+"PM Modi continues the $1.8 billion renovations as ""essential service"" while India descends into covid hell."
+German panel to recommend J&J COVID vaccine for over-60s - Spiegel
+Vietnam records first Covid-19 vaccination death
+"Palestinians, Israel police clash at Al-Aqsa Mosque; 53 hurt"
+China to support holding Tokyo Olympics in Japan Xi tells IOC
+"In shock move, US backs waiving patents on COVID vaccines"
+Discover how long it takes to develop immunity after receiving a COVID-19 vaccine.
+"Seychelles, world’s most-vaccinated nation, activates curbs as coronavirus cases rise"
+"Portugal, Australia and Israel included on UK travel green list - follow live"
+EU top court upholds ban on Bayer pesticides linked to harming bees
+Indonesia's Sinabung volcano erupts
+UK Conservative Party wins Hartlepool by-election and unseats Labour for first time in almost 50 years
+Polish Diplomats Protest At “Abortion Tourism” in The Czech Republic
+Public Health England says coronavirus variant B.1.617.2 is a variant of concern
+Brazil welcomes U.S. call for talks on vaccine patents
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+Over 7 kg uranium seized in India’s Maharashtra state
+Under 40s to be offered alternative to AZ vaccine
+EU preparing to send soldiers to Mozambique
+Afghanistan: Pentagon deploys extra warplanes amid pullout
 About Community
 Filter by flair
 r/worldnews Rules
@@ -884,59 +705,30 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-"Human rights watch delivers a 213 page report detailing apartheid in Israel, calls on UN to impose sanctions."
-Pfizer CEO Says Antiviral Pill To Treat Covid Could Be Ready By The End Of The Year
-Hong Kong cartoon depicting US invasion by gun-toting Mickey Mouse and evil Ronald McDonald in textbook for overhauled liberal studies subject sparks row
-Israel stampede news — latest: At least 44 dead and 150 hurt in ‘great tragedy’ at religious festival
-Russia produces first batch of COVID-19 vaccine for animals -regulator
-'No more sacred places': Heritage sites under siege in Tigray conflict
-'No more sacred places': Heritage sites under siege in Tigray conflict
-Have you ever wanted to own a business? As an Amazon Delivery Service Partner you can start a package-delivery business in your community with support from Amazon. Get started today.
-"Brazil backs away from the virus brink, but remains at risk"
-Al Qaeda promises 'war on all fronts' against America as Biden pulls out of Afghanistan
-"HK activist Joshua Wong pleads guilty over June 4 'illegal assembly' | Reuters"
-"Boris Johnson’s phone number ‘listed online for last 15 years’ | The Guardian"
-The Jerusalem Post: Tel Aviv launches affordable housing plan for Jaffa's Arab residents.
-How the Pentagon Started Taking U.F.O.s Seriously
-"Air India US flights: Big rush to get to US, Air India ups nonstops to pre-Covid level | India Business News"
-Nestle buys vitamin maker Bountiful's main brands for $5.75 billion
-'A great tragedy': Dozens killed in Israel religious festival stampede
-"Mothers are powerful. Some would say TOO powerful. This Mother's Day, give your mom the gift of flowers so she doesn't turn against you."
-Australian government may make it a crime for citizens to return from COVID ravaged countries
-Moderna doubling COVID-19 vaccine production
-"In India’s devastating coronavirus surge, anger at Modi grows"
-"New Zealand gun buyback meeting targets and owners compliant, police say."
-"India: State runs out of Covid-19 Vaccines, Innoculation delayed"
-"Tainted batches of Russia's Sputnik V Covid vaccine sent to Brazil carried a live version of a common cold-causing virus, the South American country's health regulator reported in a presentation explaining its decision to ban the drug's import"
-EU ready to help restore democracy to Myanmar - high representative
-"Israel, Jerusalem - 44 crushed to death, over 150 hurt in stampede at mass Lag B'Omer event at Mt. Meron."
+Mahle develops highly efficient magnet free electric motor.
+Bank of England does not see COVID bankruptcy wave - Haldane
+Life is too short to be afraid to try new things. Start creating with Adobe Creative Cloud. Students save up to 60%.
+UK - Under 40s to be offered alternative to AZ vaccine
+Australia to resume India repatriation flights after backlash
+"Oil for oxygen: Covid-hit India welcomes Saudi medical aid, boosts oil imports"
+Maldives police say bomb blast targeting Nasheed ‘act of terror’
+India Covid: The Agony of Watching a Catastrophe From Afar
+Dinosaur bones dating back to 100 million years found in India
+Eritrea’s letter to UN is ‘open admission of aggression’ in Ethiopia’s Tigray war
+Hunger Stalks Ethiopia’s Tigray Region After Six Months of War
+"Embark on your next adventure in Call of the Tempestarii, available now on PC, Xbox, PlayStation and Nintendo Switch! Explore a sprawling universe, blast your way through ship-to-ship battles, navigate through treacherous Void Storms and unleash Sevagoth, the shadow of death."
+Houthis ‘passed up major opportunity’ by refusing UN meeting: US
+Pentagon chief says removal of all contractors from Afghanistan under way
+Rahul Gandhi: COVID-19 failures have caused 'needless suffering' in India
+Evidence found of forced sterilisation in Russian psychiatric homes
+European powers call on Israel to halt settlement expansion
+Maldives former president Nasheed critical after bomb blast
+Elections results 2021: Conservative gains as first English councils declare
+Hong Kong's Joshua Wong handed extra jail time for Tiananmen vigil
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+Denmark tells Syrian refugees it’s time to go home
+Canada beats Russia to capture gold at U18 World Championship
+Lloyd Austin says US has no plans to shoot down out-of-control Chinese rocket
 About Community
 Filter by flair
 r/worldnews Rules
@@ -1127,56 +919,31 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-Call to enshrine gender equality in Singapore's Constitution
-Call to enshrine gender equality in Singapore's Constitution
-Facebook temporarily hid posts calling for India’s prime minister to resign
-Her Majesty Queen Shiyiwe Mantfombi Dlamini Zulu has died
-"They are killing our forest, Brazilian tribe warns"
-"Judge resigns in protest after court won't try murder of Jewish woman: ""anti-Semitic assassination"""
-Officials say Indonesian submarine may have been hit by 'internal wave'
-"Abbas delays first Palestinian elections in 15 years, blaming Israel"
-Discerning cats choose Advantage® II. A premium flea prevention.
-EU slams China’s ‘authoritarian shift’ and broken economic promises
-"""German climate law is partly unconstitutional, top court rules"" because it threatens the freedoms of future generations by passing the ""emission reduction obligations"" onto them."
-"COVID is causing strokes among the young and healthy, global study indicates"
-"More global records fall: Daily Covid cases hit 400,000, April count 6.9 million | India"
-Australians stuck overseas 'abandoned' by their own country
-India's ruling party leader says 'responsibility is ours' for Covid-19 outbreak
-China plots regional influence push as India battles Covid crisis
-India's COVID-19 cases surge to 18 million while government praises turnout for 'festival of democracy'
-Japan Olympics surfing venue refuses to cooperate with athlete testing: report
-"This season, help protect playtime. Fight fleas and ticks for 8 continuous months with Seresto®, the easy-to-use collar carried by 8,000+ vet hospitals nationwide. And play on and on and on the convenient, effective, long-lasting way — no Rx required"
-Researchers map ancient ‘superhighways’ used by first Australians
-"New Zealanders face mental health, economic challenges in pandemic recovery"
-"Moderna plans to produce up to 3 billion COVID-19 vaccine doses next year, citing a 'significant need' for shots and boosters into 2023"
-Hong Kong activist Joshua Wong pleads guilty over June 4 'illegal assembly'
+Israel apprehends Palestinian who shot three people at a bus station last week
+What does it take to make it in the world of cat-riding cowboys? Your imagination and a little Photoshop – just one of the 20+ creative apps in Adobe Creative Cloud. Students save 60%.
+Honeywell fined US$13 million for sharing military specs with China
+"Police say cell opened fire toward military base; 2 attackers killed, 1 injured"
+China Wants To Revive A Strategically Located Airfield Deep In The Pacific: Report
+Storing renewable energy in stones instead of lithium batteries.
+India cases hit new record as calls grow for strict lockdown
+"Cut methane emissions to rapidly fight climate disasters, UN report says"
+Austria children's NGO faces sex abuse claims
+Hungarian lab confirms reliability of Sputnik V jab delivered to Slovakia
+"Embark on your next adventure in Call of the Tempestarii, available now on PC, Xbox, PlayStation and Nintendo Switch! Explore a sprawling universe, blast your way through ship-to-ship battles, navigate through treacherous Void Storms and unleash Sevagoth, the shadow of death."
+Brazil violence: Rio police accused by residents of abuses in raid
+UK scientists warn over Indian COVID ‘variant of concern’: Report
+Mosques in Pakistan open for business despite the third COVID wave.
+"Big Pharma Stocks Rebound After Germany's Merkel Speaks Out Against Vaccine Patent Waiver | ""By blocking wider vaccine production globally, the E.U., U.K., and a few other laggards are boosting pharma companies' profits while people are suffering and dying."""
+"Big Pharma Stocks Rebound After Germany's Merkel Speaks Out Against Vaccine Patent Waiver | ""By blocking wider vaccine production globally, the E.U., U.K., and a few other laggards are boosting pharma companies' profits while people are suffering and dying."""
+Alcohol deaths highest for 20 years in England and Wales
+"Novavax vaccine shows 43% efficacy against variant first found in South Africa, study finds"
+France accused of delaying EU order for 1.8 billion vaccine doses
+3 terrorists killed in attack on Israeli base in Samaria
+"Putin looks to make equating Stalin, USSR to Hitler, Nazi Germany illegal"
+Ethiopia’s crackdown on ethnic Tigrayans snares thousands
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+Chinese 'blind box' pet rescue sparks outrage
+IHME says nearly 7 milion people died from COVID-19 worldwide. Nearly double the number the WHO reported the same day.
 About Community
 Filter by flair
 r/worldnews Rules
@@ -1397,56 +1164,27 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-The ransomware surge ruining lives
-Hungary-China agreement to establish a Chinese university in Budapest and the Fears that Fudan University will promote Beijing’s authoritarian vision
-Turks see Erdogan’s pious hand behind alcohol sales ban during lockdown
-"COVID-19: French bars, restaurants and cinemas to reopen May 19"
-Modi’s “liberalised and accelerated” vaccination drive is neither of those things: Indians above 18 register on Co-WIN but still can’t book vaccine
-Russian activist faces prison time for sharing Rammstein's 'Pussy' video
-"China’s imports of US coal, Canadian barley continue to climb amid ban on Australian exports"
-Check out how you and anyone you know can conquer skyscrapers with Quest 2.
-Palestinian Leader delays first election in 15 years
-Storm causes structure over Aztec ruins to collapse in Mexico City
-India cases up as scientists appeal to Modi to release data
-Germany to return looted Benin Bronzes to Nigeria in 2022
-Canada's parliamentary backlog may serve as trigger for early election
-Moscow Jewish community center set on fire and vandalized on Hitler's birthday
-Lawyer defending Russian dissident Navalny's group detained -colleague
-"'The situation in India can happen anywhere,' says WHO Europe director"
-'This is our home': Black Hebrew Israelites in shock after Israel announces deportation plan
-Invest in the company disrupting this $19B industry.
-"German software giant SAP hit with $8 million fine over Iran exports: The company will pay millions in penalties but will not face criminal charges, US prosecutors said"
-"Beijing and Moscow have stepped up ""state-sponsored disinformation"" campaigns denigrating Western-developed vaccines while promoting their own. The so-called 'vaccine diplomacy' seeks to undermine trust in Western-made vaccines and Western/European vaccination strategies"
-"German climate law is partly unconstitutional, top court rules | Germany will have to improve its emissions targets from 2031 following a complaint by a coalition of climate activists, including Friday's for Future."
-"Unexplained, mysterious health issues may have been caused by attacks by a foreign power with a kind of directed microwave energy device"
-"Kenya camps with 400,000 refugees to be closed next year"
-Boris Johnson's Personal Phone Number Has Been Hiding in Plain Sight Online For 15 Years
+"Packed trains, drinking: Japanese impatient over virus steps"
+"Soon, your quality OC will be catching those upvotes nice and easy just like our good friend Upvote Pup. Get 20+ creative apps like AfterEffects & Photoshop when you sign up for Adobe Creative Cloud. Students save 60%!"
+"Germany says production capacity, not patents, key to upping vaccine output"
+Deadliest single incident in Rio State history - 25 killed in Rio de Janeiro police raid on drug gang
+Anti-Olympic petition gains tens of thousands of signatures
+"Domino effect: Canada announces Durban IV boycott after US, Australia"
+"As India Covid Crisis Worsens, Wealthy Indians Flee by Private Jet"
+"Industry could cheaply and easily slash humanity's methane emissions by at least 30 percent in a decade, the United Nations said Thursday, adding that such cuts would slow global warming and prevent hundreds of thousands of deaths"
+"Duterte says Philippines arbitral win vs. China 'just' a piece of paper, trash to be thrown away"
+Turks feel belittled after Turkish FM says Ankara will vaccinate 'anyone that tourists can see'
+"At Amazon, you can shop low prices anytime, anywhere."
+"Germany rejects US push to waive COVID vaccine patents: The German government said while they support global vaccine supplies, ""the protection of intellectual property is a source of innovation and must remain so in the future."""
+"B.C. ranchers, loggers unite in fight against plan to log rare inland old-growth rainforest: Proposal to log ‘heartbreakingly beautiful’ Raush Valley — home to trees up to 1,000 years old — would require building a road through a protected area"
+"Amid Russian threat, Blinken backs Ukrainian government in critical visit"
+Gaza incendiary balloons spark 6 fires in southern Israel
+Japan to extend COVID-19 emergency to May 31
+Australia’s Covid-19 travel ban on citizens returning home from India challenged in court
+US sends reinforcements for Afghan withdrawal
+Denmark strikes tentative deal with Rwanda on refugees and migration
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+Hidden WW1 Bunker Revealed as glacier melts in Italy
 About Community
 Filter by flair
 r/worldnews Rules
@@ -1694,57 +1432,29 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-Botswana Could Be First African Country to Vaccinate Entire Adult Population
-"Covid: Brazil passes 400,000 deaths amid slow vaccination"
-Colombia's anti-government protests revive despite police crackdown
-Pope Francis’ new Vatican anti-corruption rules limit gifts to 40 euros
-Nestlé to cut almost 600 jobs as it closes UK factory and moves some production to Europe
-"Counter ‘one-sided’ world media narrative on govt’s pandemic ‘failure’, Foreign Minister tells Indian diplomats"
-"Did you know, kibble doesn't legally qualify as ""food""? It's technically ""feed."" It's not just a tiny difference of letters — there's also a huge gap in the quality of ingredients, which has a big impact on your dog's health. Start feeding real, fresh food and get 50% off your first delivery!"
-China successfully launches first module of planned space station
-"Full lockdown takes effect in Turkey, people leave cities"
-Bulgaria expels Russian diplomat over arms depot blasts
-"Bengaluru: Over 3000 Covid Patients Go Missing, Phones Switched Off, Police Begin Search"
-Iterable founder Justin Zhu fired for taking LSD at work
-COVID-19: Egypt bans celebrations for upcoming holidays to prevent spread
-British regulator cites 41 more blood clot reports following AstraZeneca shots
-"Balkans border change would lead to a bloodbath, warns North Macedonia's president"
-"Thousands of Myanmar villagers poised to flee violence to Thailand, group says"
-"Whether you exercise daily or you’re just starting out, upgrade your routine with research-backed nutrients for fitness and recovery support.*"
-"Indians turn to black market, unproven drugs as virus surges"
-Elderly Italian terrorists surrender in Paris; 1 more sought
-Russian military says its troops back to bases after buildup
-"Nothing to see here, says Boris Johnson over flat costs investigation"
-Dog crematorium site in Delhi to be used for humans amid surge in Covid deaths
-Canadian Provincial leader tells province's teachers to get vaccinated in US.
+China says it will “indefinitely suspend” all activities under the China-Australia Strategic Economic Dialogue due to Australia's ”Cold War mindset and ideological discrimination”
+China says it will “indefinitely suspend” all activities under the China-Australia Strategic Economic Dialogue due to Australia's ”Cold War mindset and ideological discrimination”
+"Soon, your quality OC will be catching those upvotes nice and easy just like our good friend Upvote Pup. Get 20+ creative apps like AfterEffects & Photoshop when you sign up for Adobe Creative Cloud. Students save 60%!"
+"Colombia Police Respond to Protests With Bullets, and Death Toll Mounts"
+IRGC chief: Israel could be blown up in single operation
+India reports highest-ever 24-hour surge in Covid cases and a record-high daily death toll
+"In an Indian city, obituaries reveal missing coronavirus deaths and untold suffering"
+Merkel pushes for carbon pricing 'worldwide' at final climate conference
+EU leaders attend summit in person for 1st time this year
+"Water Drop in Euphrates River Increases Tensions Between Syrian Kurds, Turkey"
+"Indonesia airport scammers reused Covid nasal swab tests, police say"
+"Introducing the newest Warframe, Sevagoth: the reaper of souls, the dark helmsman, the perfect addition to your Arsenal. Unleash the shadow as Sevagoth in Call of the Tempestarii, playable now on all platforms."
+U.S. bound-migrants vaccinated for COVID-19 in Mexican border city
+Maldives ex-president Mohamed Nasheed injured in an explosion outside his family home
+Zimbabwe mulls first mass elephant killing in decades - herds are shot in their entirety to prevent post traumatic stress for surviving animals
+Vaccine tourism: Canadians fly south for shot as U.S. demand falls
+Taliban captures key Afghan dam as fighting rages
+Japanese Town Spends Covid Money on a Giant Squid Statue
+Novavax vaccine shows 51% efficacy in COVID-19 infections caused by B.1.351 variant
+Angela Merkel says Belarus protesters not forgotten
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+Clashes Resume in Jerusalem's Sheikh Jarrah as Palestinians Await Eviction Court Ruling
+Germany pushes back against US calls to waive COVID vaccine patents
 About Community
 Filter by flair
 r/worldnews Rules
@@ -2023,52 +1733,27 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-"Hong Kong has passed a new immigration law that includes powers to stop people entering or leaving the city, raising fears of Chinese mainland-style “exit bans” in the international business hub."
-Turkmenistan Bans Lines Outside Stores So As 'Not To Discredit' President
-"U.S. issues Level 4 health alert, asks its citizens to leave India"
-Russian Sputnik V vaccine developer plans to sue Brazilian regulator for defamation
-"In India, people are begging for hospital beds and oxygen cylinders on social media"
-Frustrated Canada presses White House to keep Great Lakes oil pipeline open
-‘We are being ignored’: Brazil’s researchers blame anti-science government for devastating COVID surge
-"This season, help protect playtime. Fight fleas and ticks for 8 continuous months with Seresto®, the easy-to-use collar carried by 8,000+ vet hospitals nationwide. And play on and on and on the convenient, effective, long-lasting way — no Rx required"
-Japan's nurses protest against request to deploy them to the Olympic Games
-Many Dead in Stampede at Israel Religious Celebration
-Ancient synagogue in Libya being converted into Islamic center
-"Germany’s highest cour, said the government now had until the end of next year to improve its Climate Protection Act to ensure it met 2030 greenhouse gas reduction goals more immediately."
-South Korea: Fully vaccinated people can skip 14-day self-isolation
-"Just 1.2 per cent of rental properties in Australia are affordable for minimum wage earners, analysis finds"
-"Indian COVID strain spreads in Israel, also among vaccinated"
-Indian double mutant COVID strain progressing in China
-Non-hallucinogenic psychedelics: scientists close in on compound
-"Get your Squad together and celebrate 8 years of Warframe with free Rewards all month long! Get the Rhino Dex Skin as soon as you log in, and play weekly Anniversary Alerts to earn Weapons, Customizations, Decorations and more."
-Scientists find way to remove polluting microplastics with bacteria
-Tajikistan and Kyrgyzstan armies clash on disputed border.
-"Indians turn to black market, unproven drugs as virus surges"
-New Zealand Parliament may debate whether China is committing acts of genocide against the Uighur people in Xinjiang.
+"Black Lives Matter Apparel Banned from Tokyo Olympics, IOC warning of ""strict punishments"""
+What does it take to make it in the world of cat-riding cowboys? Your imagination and a little Photoshop – just one of the 20+ creative apps in Adobe Creative Cloud. Students save 60%.
+"Oximeters, thermal scanners at UP’s ‘gaushalas’ 😫🤷🏽‍♂️🤦🏽‍♂️"
+UK jobs market hits full throttle as lockdown eases: KPMG/REC
+Hong Kong: Joshua Wong sentenced to 10 more months
+"India | The current and former Modi advisors calling his new ‘liberalised’ vaccine policy a mistake"
+"Cut methane emissions to rapidly fight climate disasters, UN report says - fossil fuels, cattle and rotting waste produce the potent and fast-rising greenhouse gas"
+"China now owns £143bn in UK assets, from nuclear power to pubs and schools"
+EU countries agree to open up to Israeli tourists
+Syrian Kurdish leader says US should stay in Syria regardless of who is president
+Discover how long it takes to develop immunity after receiving a COVID-19 vaccine.
+Two men arrested with 7 kg radioactive uranium in Mumbai
+Lithuanian president uses HBO's Chernobyl to warn EU leaders of Belarus nuclear plant
+A Massive Methane Reservoir Is Lurking Beneath the Sea
+Indian delegation at G7 in London forced to self-isolate after testing positive on arrival despite testing negative before departing India
+"EU seeks rapid response military force, two decades after first try"
+Armenian Foreign Ministry salutes declaration of Latvia's parliament recognizing Armenian Genocide
+Americans sentenced to life for killing police officer in Rome plan to appeal
+"Five new reports of blood clotting linked to AstraZeneca COVID-19 vaccine emerge in Australia, authorities investigating"
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+Japan pledges 50 million dollars COVID aid to India
 About Community
 Filter by flair
 r/worldnews Rules
@@ -2375,53 +2060,25 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-"The parliaments of Algeria, Oman, Mauritania, Russia, Iran, Armenia, China, Venezuela, Cuba, Belarus, South Africa, Ecuador, Nicaragua and Bolivia were invited by Syrian lawmakers to observe the presidential elections in Syria"
-"Kyrgyzstan, Tajikistan forces exchange gunfire in worst border flareup in years"
-EU pivots to Pfizer with world's biggest Covid-19 vaccine deal with a record agreement to buy up to 1.8 billion doses
-Ottawa inks deal with Pfizer for millions of COVID-19 booster shots through 2024
-Staffer sacked for masturbating on MP's desk makes report to police
-"US troop withdrawal from Afghanistan has begun, officials tell CNN"
-V.A. disability appeals can feel like a battle. We’ll help you fight. Veteran Legal Group supports veterans every day. Request your free consultation.
-Israel examining Pfizer vaccine heart inflammation
-‘Scenes from Dante’s inferno’: a doctor on India’s Covid wards
-South Korea: Disappointing Japan ruling fails to deliver justice to ‘comfort women’
-"Hezbollah exported drugs, weapons, with Lebanon government knowledge"
-"Thousands march in Colombia over tax proposals, rising insecurity"
-South Korea cancels Korea-China Culture Town project amid mounting anti-Chinese sentiment.
-Scientists have discovered a billion-year-old fossil in the Scottish Highlands that could reveal a new link in the evolution of animals
-"Russia and China 'trying to sow distrust in western COVID vaccines' | World News"
-"Video Of Agra Man Kneeling, Begging To Cops In New Oxygen Controversy"
-"The next generation of survival horror rises in the form of Resident Evil Village, the eighth major entry in the Resident Evil series. Pre-order Resident Evil Village on PS5, PS4, XBSX, XB1, PC, and Stadia today!"
-"Around 400 tonnes of oil spilt into the Yellow Sea after a tanker collided with another ship off China's largest crude-receiving port earlier this week, maritime authorities said Thursday"
-Huawei cedes further ground as smaller smartphone rivals swoop in
-Kyrgyzstan and Tajikistan start armed conflict over fresh water
-Bafta suspends Noel Clarke over harassment claims
+"u/hero0fwar has been making our Reddit ads forever! (Thanks, hero!) Here’s a little peek at how he makes the magic happen using AfterEffects, just one of the 20+ creative apps in Adobe Creative Cloud. Students save 60%"
+"Xinjiang: China blasts New Zealand Parliament for 'severe abuses' declaration, warns of potential 'harm' to relationship"
+Twenty-five killed in Rio de Janeiro police raid on drug gang
+"Colombia Police Respond to Protests With Bullets, and Death Toll Mounts"
+Researchers find obesity linked to reduced blood flow to the brain
+IDF bolsters troops in West Bank following attempted terror attack
+The origin of COVID: Did people or nature open Pandora’s box at Wuhan? - Bulletin of the Atomic Scientists
+"Rio de Janeiro: at least 25 killed in city’s deadliest police raid on favela | Rio de Janeiro | The Guardian"
+Italian Navy rescues fisherman reportedly shot off Libya
+Discover how long it takes to develop immunity after receiving a COVID-19 vaccine.
+CZ-5B rocket will have uncontrolled re-entry sometime this weekend
+Scott Morrison accidentally endorses Beijing position on Taiwan in foreign policy blunder
+"Student, 19, dies of injuries after West Bank drive-by shooting"
+"Gunboats and blockade threats as U.K., France clash over fishing"
+Merkel criticizes Biden’s push to waive vaccine patents
+25 dead after eight days of protests in Colombia
+Albania 'could begin' EU membership talks without North Macedonia
+Chinese rocket stage predicted to reenter atmosphere around May 8
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
 About Community
 Filter by flair
 r/worldnews Rules
@@ -2755,54 +2412,26 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-"Indian COVID strain spreads in Israel, also among vaccinated"
-British woman to sue UAE royal she accuses of sexual assault for damages
-China says US increasing military activity directed at it
-"The United States on Thursday voiced alarm over Ukraine's dismissal of the reform-minded head of the state-owned oil and gas company, urging its ally to do more to improve corporate governance"
-Pakistan warns of new strictures as its daily Covid death toll sets a record.
-Vietnam says it won't follow others in opposing China
-"Global Chip Drought Hits Apple, BMW, Ford as Crisis Worsens"
-"This season, help protect playtime. Fight fleas and ticks for 8 continuous months with Seresto®, the easy-to-use collar carried by 8,000+ vet hospitals nationwide. And play on and on and on the convenient, effective, long-lasting way — no Rx required"
-China seeks to douse speculation of shrinking population
-Pope aims to cut down on corruption among Vatican managers
-West Bengal elections go ahead despite India’s soaring Covid death toll
-Cars destroyed in arson attack on police officer's home
-Labour suspends 14 members including Peterborough councillors over alleged antisemitism
-"Sri Lanka cabinet approves proposed ban on burqas in public | Islamophobia News"
-Iran seeks production of weapons of mass destruction: German Intel Agency
-"Russia and China 'trying to sow distrust in western COVID vaccines' | World News"
-Switzerland to hold referendum on same-sex marriage
-China's communist regime celebrates Jacinda Ardern's attempts to drift away from Five Eyes intelligence network - as Beijing heaps praise on the 'cooperative' New Zealand leader
-"If you try cleaning off soot with soap and water, you'll find yourself with an even bigger mess on your hands. Our ServiceMaster Restore professionals have in-depth knowledge of advanced restoration techniques and can get your home back to working order."
-"Tonnes of dead fish have washed up on the shore of a highly polluted lake in eastern Lebanon in recent days. It was not immediately clear what caused the dead fish in Lake Qaraoun on the Litani river, which several local fisherman said was unprecedented in scale"
-"No sign of Covid infection after test concert in Spain, researchers say"
-China launches main part of its 1st permanent space station
+"u/hero0fwar has been making our Reddit ads forever! (Thanks, hero!) Here’s a little peek at how he makes the magic happen using AfterEffects, just one of the 20+ creative apps in Adobe Creative Cloud. Students save 60%"
+Tigray crisis: Many people in rural areas are cut off from aid
+Covid: Germany rejects US-backed proposal to waive vaccine patents
+EU weighs military training mission for Mozambique
+Colombia protests: UN 'deeply alarmed' by bloodshed in Cali
+Serbia in 'world first' as citizens offered €25 to have COVID vaccine
+Defiant grandmother becomes opposition icon in Poland
+"""The situation is out of control"": 24 dead in anti-government protests in Colombia"
+"Influencers jailed in Bali for fake mask video prank, to be deported as 'soon as possible'"
+"There’s never been a better time to climb aboard your Railjack! We’ve made it easier than ever to jump right into action with a fleet of changes. Build, board & battle as a true Railjack captain. Take command of your crew & battle in deep space in Warframe’s latest update, Call of the Tempstarii."
+UK to send two Royal Navy boats to Jersey after France threatens blockade of island port
+Amazon delays Prime Day in India and Canada as Covid ravages both countries
+Bolsonaro suggests coronavirus is part of China biological war
+"Parents of American killed in Taiwan train crash to take legal action, questions if the Taiwan Railway Administration had learned anything from a previous deadly train accident in 2018."
+British academic sues UAE officials and claims he was tortured after being accused of spying
+Duterte calls Philippine arbitral victory vs China a piece of 'paper' that led to nothing
+Taliban captures key Afghan dam as fighting rages
+Australian State Premier calls Jacinda Ardern’s travel ban an “overreaction”
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+India’s Modi slammed for COVID handling amid spiralling crisis
 About Community
 Filter by flair
 r/worldnews Rules
@@ -3163,57 +2792,27 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-"Imagine if there was a topical over-the-counter product that gave you relief from genital herpes using only all-natural, organic ingredients. It’s FemiClear! You’ve been imagining the product we’re advertising here. Click through for a $10 coupon and find FemiClear at a nearby CVS, Reddit."
-Huge amphitheatre for gladiator fights dubbed 'Turkey's Colosseum' unearthed in remote fig orchard
-Kremlin critic Navalny looks thin and drained after hunger strike
-China reportedly set to announce first population decline in 60 years
-China launches core module of new space station to orbit
-Privacy alarm as foreign individual passport details published by China's National Intellectual Property Administration
-Four vaccinated Israelis infected with Indian variant - Health Ministry
-"PM Modi a 'Super Spreader', Responsible For COVID Second Wave: Indian Medical Association"
-Canada: hummingbirds succeed in halting controversial pipeline construction
-Watch steamy anime without the pesky steam.
-"Malnourished woman at ‘high risk’ of death can be tube fed, judge rules"
-"‘A farrago of nonsense’: Boris Johnson dismisses flat refurbishment row | Boris Johnson"
-"Navalny appears in Court Appeal via video, slowly ending hunger strike as medical care begun"
-Rights groups condemn Egypt's mass executions over police station attack
-Myanmar protesters describe torture they suffered in detention
-"Boko Haram fighters have hoisted flag and forcefully acquired wives in Nigerian town, governor says"
-Australian mother marks nine months in Chinese prison as curious online posts emerge
-US aid to Venezuela driven by more than just need: report
-We’re an intuitive and regulated cryptocurrency platform built to the highest standards for 4 million customers.
-"Air India US flights: Big rush to get to US, Air India ups nonstops to pre-Covid level"
-India: No hospital beds – families take their dying to temples
-'Searching for bread': Lebanon's economic collapse leads to suffering during Ramadan
-Chinese Star Investigated Over Staggering $28 Million Paycheck for One Show
-"India turns down UN integrated supply chain help, says it has robust system"
-Greek Cypriots say Turkish two-state offer won't work
+What does it take to make it in the world of cat-riding cowboys? Your imagination and a little Photoshop – just one of the 20+ creative apps in Adobe Creative Cloud. Students save 60%.
+Police hold children in 'dire' conditions in Ethiopia's Oromiya -rights commission
+Truck driver leaves scene after hitting five pedestrians in Melbourne's Southbank
+Macron commemorates 200th anniversary of Napoleon's death
+"US seen as bigger threat to democracy than Russia or China, global poll finds"
+"UK agrees to give EU ambassador full diplomatic status, ending post-Brexit clash"
+Internet Disrupted in Colombia as Protesters Killed During Rally Against Iván Duque Márquez. Accounts of internet problems in Colombia during anti-government protests have been reportedly confirmed
+Hong Kong court jails three on riot charges despite no evidence of rioting
+Brazil's Bolsonaro links pandemic to 'germ warfare' - France 24
+"Embark on your next adventure in Call of the Tempestarii, available now on PC, Xbox, PlayStation and Nintendo Switch! Explore a sprawling universe, blast your way through ship-to-ship battles, navigate through treacherous Void Storms and unleash Sevagoth, the shadow of death."
+American students found guilty in Italian police officer's death
+Germany Investigates Abuse of Turkish Service Passports
+Canada's Alberta confirms first death linked to AstraZeneca vaccine
+Pleas for help in India as COVID-19 leaves children without carers
+"Hundreds of women gather in Gujarat for religious processions ‘to eradicate Covid’, as a local priest claims that the pandemic is the result of angry Gods"
+South African President welcomes United States U-turn on 'temporary and targeted' waiver of vaccine patents
+Scientists Believe These Photos Show Mushrooms on Mars—and Proof of Life
+"China is ‘invincible’ despite world being in turmoil, Xi Jinping tells Communist Party. “We can clearly see who has done better” in the pandemic, he said"
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+"The International Criminal Court sentenced a Ugandan former child soldier who turned into a brutal rebel commander to 25 years' imprisonment Thursday, with judges saying that his own abduction as a schoolboy and history as a child soldier prevented him being sentenced to life"
+Turkish Central Bank keeps interest rates high as inflation weighs on economy
 About Community
 Filter by flair
 r/worldnews Rules
@@ -3602,55 +3201,28 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-Afghan general: army and security forces ready to crush Taliban after US withdrawal
-Fourth Expert Resigns From Polish Government’s Auschwitz Council After Appointment of Hardline Nationalist Stirs Controversy
-‘Clean out our insides’: Ethiopia detains Tigrayans amid war
-Mumbai vaccination stops amid record India COVID rise: Live news
-Russia shuts down opposition leader Alexey Navalny's anti-corruption foundation
-Asylum applications from Turkey to EU increased by 500 pct since 2015
-Philippines' Duterte refuses to stop South China Sea patrols.
-"India tops 200,000 dead as virus surge breaks health system"
-"This season, help protect playtime. Fight fleas and ticks for 8 continuous months with Seresto®, the easy-to-use collar carried by 8,000+ vet hospitals nationwide. And play on and on and on the convenient, effective, long-lasting way — no Rx required"
-Indonesia designates Papuan separatists 'terrorists'
-Russia Fines Apple $12 Million For 'Abusing' Apps Market
-NHS England boss to step down
-"Shortages, confusion in India’s vaccination drive"
-Kyrgyz and Tajik security forces clash at border in water dispute
-China Renews Crackdown on Online Feminist Groups
-Japan to allow emergency vaccine rollouts without clinical trials
-"Bribery, impersonation, abuse: shocking details revealed in Pakistan fraud case that targeted users of US Patent and Trademark Office"
-China says population grew in 2020 after report of decline
-“I knew something needed to change when I got out of breath tying my shoelaces. I swapped my usual breakfast and lunch for Huel and now look where I am only 1 year later. Huel made losing weight so easy and I couldn’t have done it without Huel!”
-Indonesia pledges new homes for relatives of doomed submariners
-Analysis: Pound's post-Brexit calm may face Scottish independence test
-Biden administration eyes major rollback in Iran sanctions to revive nuke deal
-China launches key module of space station planned for 2022
+"Adidas, Nike Online Sales Plunged in China Amid Xinjiang Boycott"
+Covid: US backs waiver on vaccine patents to boost supply
+German 'dead fraudster' exposed by pet poodle in Majorca
+New Zealand suspends quarantine-free travel from NSW over two Sydney Covid cases
+New Zealand Parliament unanimously declares 'severe human rights abuses' occurring against Uyghur in China
+EU ‘ready to discuss’ waiver on Covid vaccine patents
+"EU ready to discuss COVID vaccine patent waiver, says von der Leyen"
+Air ambulance makes emergency belly landing at Mumbai airport(India) after it loses tyre during takeoff
+"Embark on your next adventure in Call of the Tempestarii, available now on PC, Xbox, PlayStation and Nintendo Switch! Explore a sprawling universe, blast your way through ship-to-ship battles, navigate through treacherous Void Storms and unleash Sevagoth, the shadow of death."
+"Africa's Oldest Human Grave Unearthed: 3-Year-Old, Buried 78,000 Years Ago"
+"India accounted for 46% of global COVID-19 cases last week, WHO says"
+Morocco recalls ambassador to Germany over Western Sahara
+US backs waiver on intellectual property rights for COVID-19 vaccines
+"Saudi Arabia and Iran held talks ‘more than once’: Iraq president | Iraqis hope for a general regional detente that would allow their country to rebuild instead of being used as an arena for US, Gulf Arab and Iranian score-settling"
+"Saudi Arabia and Iran held talks ‘more than once’: Iraq president | Iraqis hope for a general regional detente that would allow their country to rebuild instead of being used as an arena for US, Gulf Arab and Iranian score-settling"
+Dominic Ongwen: Former Ugandan child soldier jailed for war crimes
+A couple months ago I told y’all this would happen and the world news community hated on it... how do you like me now???
+[Romania] Prince blamed for shooting one of Europe's biggest bears
+"u/hero0fwar has been making our Reddit ads forever! (Thanks, hero!) Here’s a little peek at how he makes the magic happen using AfterEffects, just one of the 20+ creative apps in Adobe Creative Cloud. Students save 60%"
+Super Thursday: Britons vote in a bumper crop of elections
+Giant wood moth so heavy it struggles to fly found in Australia
+India’s worsening Covid crisis could spiral into a problem for the world
 About Community
 Filter by flair
 r/worldnews Rules
@@ -4069,56 +3641,21 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-Vaccine Doses Pass 1 Billion Mark as Global Cases Set Another Record
-Ex-generals face sanctions after they warn of 'civil war' in France
-China launches first module of new space station
-"Hungarian, Chinese leaders to discuss anti-pandemic cooperation"
-Japan's unused 14 million doses of COVID-19 vaccines point to logistical hurdles
-Indonesian president pledges homes to submariners' families
-The first module of China’s Tiangong Space Station Sent into Orbit
-China launches first module of New Space Station - Potential replacement for ISS by 2024
-"This season, help protect playtime. Fight fleas and ticks for 8 continuous months with Seresto®, the easy-to-use collar carried by 8,000+ vet hospitals nationwide. And play on and on and on the convenient, effective, long-lasting way — no Rx required"
-Alexei Navalny looks gaunt as he appears in court following hunger strike
-Zulu Queen Mantfombi Dlamini dies a month after becoming regent
-"Indigenous chief to request UN peacekeepers to prevent lobster fight boiling over | Canada"
-‘Scapegoat’: The lonely life of a doctor who helped pinpoint Bin Laden
-Hundreds of Birds Swarm Town in Australia
-Hungary Transfers 11 Universities to Foundations Led by Orban Allies
-Shakeup in Iran’s presidential office after leaked FM tape — ABC News
-"Vaccinating more than anywhere else, China still needs to speed up"
-"Whether you exercise daily or you’re just starting out, upgrade your routine with research-backed nutrients for fitness and recovery support.*"
-Ukraine picks new energy minister as Western allies warn on reforms
-UNFPA says UK to cut 85% in aid to family planning programme
-UNFPA says UK to cut 85% in aid to family planning programme
-Eight Venezuelan soldiers killed in clashes on Colombian border
-India cases set new global record; millions vote in 1 state
+Doctors investigate mystery brain disease in Canada
+"Boris Johnson says Royal Navy to stay on patrol in Jersey as French military ships head to post-Brexit fishing protest | UK News"
+"France, Britain send patrol boats to Jersey in post-Brexit fishing row"
+"Colombia: National strike defeats tax reform for now, repression and militarisation continue"
+Biden backs a patent waiver to open world access to covid vaccines
+"As India struggles with 2nd wave of COVID, PM Modi goes ahead with $2 billion Central Vista Project- New parliament and new PM residence"
+Demands grow as Colombians hold eighth day of mass protests
+Discover how long it takes to develop immunity after receiving a COVID-19 vaccine.
+Mexico apologises to Mayan people for historic abuses
+Hong Kong democracy activist Joshua Wong sentenced over Tiananmen Square vigil
+Covid: Reused nose swab scam busted in Indonesia airport
+French military ship heads to Jersey to join post-Brexit fishing protest as Royal Navy patrols waters
+Prince probed over claims he killed Romania's largest bear
+16 year old Palestinian teen said killed in clashes with IDF amid rising West Bank tensions
+"Brazil's Butantan Institute cuts CoronaVac delivery forecasts, blames Bolsonaro's declarations about China"
 About Community
 Filter by flair
 r/worldnews Rules
@@ -4564,54 +4101,28 @@ Moderators
 ""
 ""
 ""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-""
-B.C. judge says man's COVID rule-breaking was like dealing fentanyl on the street
-"EU report accuses Russia, China of sowing mistrust in Western vaccines"
-"EU locks in 1.8 billion more vaccines from Pfizer, Hedging Bets from other Providers"
-India coronavirus: Man charged over oxygen SOS for dying grandfather - BBC News
-Kremlin critic Navalny looks thin and drained after hunger strike
-"Moldova - Snap Election called by pro-EU president Sandu, Expected to make Parliamentary gains"
-"We can no longer ignore climate change. Beyond the risks across industries - including labor shortages, supply chain disruption, and higher production costs, climate change poses an existential threat to humanity. Get biweekly updates in our new, FREE newsletter - Insider Sustainability."
-"One in four Covid-19 deaths last week was in the Americas, says PAHO director"
-"'Clean out our insides': Ethiopia has swept up thousands of ethnic Tigrayans into detention centers across the country on accusations that they are traitors, often holding them for months and without charges"
-Facebook ‘looking into’ hiding of posts calling for PM Modi’s resignation in India
-‘Life is precious’: India’s migrant workers flee COVID-hit cities
-Turkey prepares for full lockdown amid rising COVID numbers
-We Need to Act Now': Study Reveals Glaciers Melting at Unprecedented Pace
-‘There’s no rain’: Climate change threatens Iraq’s Bedouins.
-"Taiwan to send oxygen concentrators to India this week, official says"
-UN Calls on Countries to Take Action to Prevent Drowning
-Invest in the company disrupting this $19B industry.
-Reports: Myanmar airstrikes target ethnic forces on 2 fronts
+Historic international ruling on South China Sea 'just paper' fit for rubbish bin: Philippine President Duterte
+13 mln S. Koreans may get coronavirus vaccine shots by June.
+The leader of the world's biggest vaccine manufacturer said he fled India because of menacing threats
+"Germany bans fundraising group, saying it aids Hamas, other terror organizations"
+Ukraine starts closing gap with Russia; real income almost doubles since 2018
+BBC News - Antony Blinken: US will respond to reckless Russian acts
+American students convicted of murdering Italian police officer
+Covid: Canada authorises Pfizer vaccine for children aged 12 to 15
+"Embark on your next adventure in Call of the Tempestarii, available now on PC, Xbox, PlayStation and Nintendo Switch! Explore a sprawling universe, blast your way through ship-to-ship battles, navigate through treacherous Void Storms and unleash Sevagoth, the shadow of death."
+Kurdish leader says he fears Islamic State comeback in Iraq
+LRA commander Dominic Ongwen sentenced to 25 years in prison
+"412k Fresh Cases, 3,980 Deaths: India's Worst Covid Numbers Yet"
+"Mystery Australian COVID case spurs return of masks, travel bans"
+Australia races to trace source of COVID-19 mystery case in Sydney
+EU willing to discuss COVID-19 vaccine patent waiver - EU's von der Leyen
+India hits another grim record as it scrambles oxygen supply
+World mulls next step as US backs IP waiver on vaccines
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+"COVID spreading in rural India; record daily rises in infections, deaths"
+U.S. targets Central America officials for possible sanctions over corruption
+"Ukraine wants aid, NATO support from Blinken’s visit"
+Drugmakers warn China flight halt in India could snarl supplies
 About Community
 Filter by flair
 r/worldnews Rules
@@ -5085,6 +4596,34 @@ Moderators
 ""
 ""
 ""
+New Zealand hits pause on quarantine-free travel bubble with NSW
+Brexit And Independence Are Top Of Mind For Scottish Voters : NPR
+Kenya set to appoint first female chief justice
+Kenya set to appoint first female chief justice at sensitive moment
+Christians upset when Egyptian government ignores Easter
+Internet disrupted in Colombia amid anti-government protests
+Nemat Rawan: Former Afghan TV host shot dead in Kandahar
+"API scripts, messaging groups, coding: India's vaccination program is now a techathon"
+"Embark on your next adventure in Call of the Tempestarii, available now on PC, Xbox, PlayStation and Nintendo Switch! Explore a sprawling universe, blast your way through ship-to-ship battles, navigate through treacherous Void Storms and unleash Sevagoth, the shadow of death."
+U.S. embassy in the doghouse in China after student visa post backfires
+Scott Morrison accidentally endorses Beijing position on Taiwan in foreign policy blunder
+Top court orders India's government to present oxygen plan
+"U.S. backs waiving patent protections for Covid vaccines, citing global health crisis"
+Philippines rejects China fishing ban and wards off Chinese vessels
+Qatar's finance minister arrested on alleged embezzlement
+"‘Monumental moment’: US backs COVID vaccine patent waivers | Coronavirus pandemic News"
+Anger at reports of UK plan to ban Troubles-era prosecutions
+New species of prehistoric turtle discovered in Madagascar
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+More than 200 NGOs call on UN to impose Myanmar arms embargo
+WHO says Sinovac COVID vaccine effective but some data lacking
+G7 ends talks with criticism of China and Russia
+Vacationing Bay Area Schoolmates Convicted In Slaying Of Italian Police Officer; Sentenced To Life In Prison
+About Community
+Filter by flair
+r/worldnews Rules
+Related Subs
+Moderators
 ""
 ""
 ""
@@ -5116,27 +4655,494 @@ Moderators
 ""
 ""
 ""
-China's Huawei says sales down 16.5% amid US sanctions
-US tells citizens to leave India as Covid-19 overwhelms hospitals
-"China has ‘no other choice’ but to rely on coal power for now, official says"
-"After recent Vaccine row with the U.S., India turned towards Russia to establish a ‘2+2 ministerial dialogue’ between foreign, defence ministers"
-Biden on Russia: 'I told them I would respond and we have'
-We created Chime because we believe everyone deserves financial peace of mind.
-Taiwan's new coast guard flagship to counter China's 'grey-zone' threat
-Tokyo Games organizers lay out updated athlete virus countermeasures
-Japan emphasizes concerns over China's military in diplomacy report
-"Former Spain PM José Luis Rodríguez Zapatero is latest Spanish politician to be sent threatening letter containing bullets. 7 packages have been mailed to high-profile figures, including 2 candidates for Madrid regional premier. Police have concluded that a number of different suspects are involved."
-"French Renault workers take managers captive in bid to stop factory sale | Renault"
-"China delivers 800 oxygen concentrators to India from Hong Kong, promises another 10,000 soon"
-"China delivers 800 oxygen concentrators to India from Hong Kong, promises another 10,000 soon"
-"Tokyo Olympics: More tests, no quarantine in updated rules"
-Covid: UK orders 60m extra Pfizer doses for booster jabs
-Myanmar guerrillas capture gov't base; airstrikes follow
-"Stream exclusive series and Originals, hit movies, live sports, news, and more on Peacock. Watch for free, upgrade for more."
-Scientists Find First Evidence on Dental Surgeries in Ancient Egypt
-Chinese court is paying a second amount of compensation to Wrongfully jailed man for his mental anguish。
-World to spend $157 billion on COVID-19 vaccines through 2025
-"Relations with Poland ""worst since WW2"", says Russian ambassador amid growing tensions"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Falling Chinese rocket to crash to Earth on Saturday as US calls for ‘responsible space behaviours’ | Space"
+COVID cases at Everest base camp raise fears of serious outbreak
+European Union again drops plans for measures related to China’s Hong Kong actions
+"Covid fears are spreading on Mount Everest, as climbers risk infection to reach the top of the world"
+COVID restrictions return to Sydney as mystery case investigated
+Covid: Indian delegates in UK for G7 talks self-isolate after Covid cases
+Discover how long it takes to develop immunity after receiving a COVID-19 vaccine.
+"Israeli opposition leader Yair Lapid gains chance to form government, oust Netanyahu"
+"Zimbabwe Considers Mass Elephant Killing, First Time Since 1988"
+China suspends key economic talks with Australia in apparent retaliation for Belt and Road block
+US backs waiving intellectual property rules on vaccines
+"[India] Covid-19: Fresh cases at 413,000, deaths near 4,000 in a day"
+Israeli tourists stuck in Seychelles quarantine over 'false COVID tests'
+"Police in Colombia open fire on citizens protesting tax reforms, killing at least 19 people."
+"Riot police fired tear gas at protesters in Bogota on during an eighth day of nationwide anti-government demonstrations, after crowds attacked police stations in the capital overnight. The protests were originally called in opposition to a now-canceled tax reform plan"
+"Brazil’s Amazon Is Under Threat from Proposed Land-Use Law. The bill would ease criteria for privatizing public lands that have been illegally deforested and, if approved today, would be the biggest setback in Brazil forest protection history."
+"If you want to unlock the first 15 minutes of #ArmyOfTheDead you're going to have to do some digging (literally). Don't miss the livestream on May 13th, 10AM PT"
+"Health Canada authorizes Pfizer vaccine for adolescents | CBC News"
+U.S. backs Covid vaccine intellectual property waivers to expand access to shots worldwide
+Israeli Prime Minister Benjamin Netanyahu failed to form a government for the third time in two years
+US supports vaccine patent waiver proposal at World Trade Organization
 About Community
 Filter by flair
 r/worldnews Rules
